@@ -1,0 +1,2347 @@
+[
+  {
+    "promo_id": "EP01-CONT",
+    "rank": 8,
+    "title": "Ep 1: Wedding Betrayal at the Altar",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 26.5,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 1,
+        "start_sec": 39.1,
+        "end_sec": 65.6,
+        "start_fmt": "00:39.10",
+        "end_fmt": "01:05.60",
+        "duration_sec": 26.5,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "LADY CLARISSA (SISTER): \"Because he is marrying me.\""
+      }
+    ],
+    "opening_hook_3s": "[00:39.10-00:42.10] LADY CLARISSA (SISTER): \"Because he is marrying me.\"",
+    "ending_cliffhanger": "[01:01.60-01:05.60] LADY JULIANA ASHCROFT: \"You swore you loved me!\"",
+    "why_it_works_one_liner": "Opens immediately on a wedding betrayal at the altar shock at 00:39.10 and cuts on an unresolved power shift at 01:05.60 (26.5s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 98.0,
+      "standalone_clarity": 80.0,
+      "pacing_density": 86.0,
+      "composite_score": 92.0
+    },
+    "transcript_preview": [
+      "[00:39.10-00:41.20] LADY CLARISSA (SISTER) (Gloating, Smug): \"Because he is marrying me.\"",
+      "[00:41.70-00:43.10] LADY JULIANA ASHCROFT (Gasping, Devastated): \"No...\"",
+      "[00:46.80-00:50.00] LADY JULIANA ASHCROFT (Outraged, Accusing): \"You knew this before I walked through those doors!\"",
+      "[00:52.80-00:54.60] LADY JULIANA ASHCROFT (Choking on Tears): \"You let me come here...\"",
+      "[00:54.70-00:56.90] LADY JULIANA ASHCROFT (Crushed, Shaking): \"You let me dress in my mother's gown...\"",
+      "[00:57.00-01:00.00] LADY JULIANA ASHCROFT (Crying Out): \"You let me believe I was walking toward my husband!\"",
+      "[01:00.10-01:01.80] GERALD HARRINGTON (EX-FIANCE) (Cold, Callous): \"I changed my mind.\"",
+      "[01:03.40-01:05.60] LADY JULIANA ASHCROFT (Betrayed, Piercing): \"You swore you loved me!\""
+    ]
+  },
+  {
+    "promo_id": "EP02-CONT",
+    "rank": 26,
+    "title": "Ep 2: Wedding Betrayal at the Altar",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 51.4,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 2,
+        "start_sec": 0.0,
+        "end_sec": 51.4,
+        "start_fmt": "00:00.00",
+        "end_fmt": "00:51.40",
+        "duration_sec": 51.4,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "GERALD HARRINGTON (EX-FIANCE): \"I cannot marry you, Juliana.\""
+      }
+    ],
+    "opening_hook_3s": "[00:00.00-00:03.00] GERALD HARRINGTON (EX-FIANCE): \"I cannot marry you, Juliana.\"",
+    "ending_cliffhanger": "[00:47.40-00:51.40] LADY CLARISSA (SISTER): \"Why are you surprised, sister? Look at you.\"",
+    "why_it_works_one_liner": "Opens immediately on a wedding betrayal at the altar shock at 00:00.00 and cuts on an unresolved power shift at 00:51.40 (51.4s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 76.8,
+      "standalone_clarity": 80.0,
+      "pacing_density": 71.0,
+      "composite_score": 83.4
+    },
+    "transcript_preview": [
+      "[00:00.00-00:02.50] GERALD HARRINGTON (EX-FIANCE) (Cold, Callous): \"I cannot marry you, Juliana.\"",
+      "[00:02.80-00:04.60] [ACTION] Juliana gasps softly in heartbreak, her eyes wide and brimming with tears.",
+      "[00:04.70-00:06.50] GERALD HARRINGTON (EX-FIANCE) (Cruel, Derisive): \"You are far too plain...\"",
+      "[00:06.80-00:09.50] GERALD HARRINGTON (EX-FIANCE) (Dismissive): \"...far too silent...\"",
+      "[00:09.60-00:12.00] GERALD HARRINGTON (EX-FIANCE) (Arrogant, Conceited): \"...and completely beneath the future I deserve.\"",
+      "[00:12.40-00:15.50] LADY JULIANA ASHCROFT (Desperate, Pleading): \"Gerald... Look at me.\"",
+      "[00:18.20-00:20.60] LADY JULIANA ASHCROFT (Trembling, Betrayed): \"You gave me your word before both our families.\"",
+      "[00:20.90-00:23.70] GERALD HARRINGTON (EX-FIANCE) (Indifferent, Unapologetic): \"Promises change when a better choice appears.\""
+    ]
+  },
+  {
+    "promo_id": "EP03-CONT",
+    "rank": 16,
+    "title": "Ep 3: Wedding Betrayal at the Altar",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 35.5,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 3,
+        "start_sec": 28.0,
+        "end_sec": 63.5,
+        "start_fmt": "00:28.00",
+        "end_fmt": "01:03.50",
+        "duration_sec": 35.5,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "LADY JULIANA ASHCROFT: \"I was humiliated by your family.\""
+      }
+    ],
+    "opening_hook_3s": "[00:28.00-00:31.00] LADY JULIANA ASHCROFT: \"I was humiliated by your family.\"",
+    "ending_cliffhanger": "[00:59.50-01:03.50] Muffled scuffle, rustle of heavy silk and frantic gasps echoing off cathedral stone.",
+    "why_it_works_one_liner": "Opens immediately on a wedding betrayal at the altar shock at 00:28.00 and cuts on an unresolved power shift at 01:03.50 (35.5s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 91.3,
+      "standalone_clarity": 80.0,
+      "pacing_density": 82.7,
+      "composite_score": 89.5
+    },
+    "transcript_preview": [
+      "[00:30.40-00:33.20] LADY JULIANA ASHCROFT (Pained, Betrayed): \"I was humiliated by your family.\"",
+      "[00:33.30-00:35.60] LADY JULIANA ASHCROFT (Accusing): \"And my father said nothing.\"",
+      "[00:36.50-00:38.40] LADY ASHCROFT (JULIANA'S STEPMOTHER) (Brutal, Dismissive): \"Your father has made his choice.\"",
+      "[00:38.50-00:40.40] LADY JULIANA ASHCROFT (Choked, Vulnerable): \"And what happens to me?\"",
+      "[00:40.50-00:41.90] LADY ASHCROFT (JULIANA'S STEPMOTHER) (Cold, Heartless): \"You leave.\"",
+      "[00:42.10-00:43.30] LADY JULIANA ASHCROFT (Disbelieving): \"Leave where?\"",
+      "[00:43.40-00:46.00] LADY ASHCROFT (JULIANA'S STEPMOTHER) (Cruel, Scornful): \"Wherever a discarded daughter belongs.\"",
+      "[00:46.40-00:48.60] LADY JULIANA ASHCROFT (Fierce, Choked): \"This is my mother's church.\""
+    ]
+  },
+  {
+    "promo_id": "EP04-CONT",
+    "rank": 23,
+    "title": "Ep 4: Wedding Betrayal at the Altar",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 20.5,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 4,
+        "start_sec": 114.0,
+        "end_sec": 134.5,
+        "start_fmt": "01:54.00",
+        "end_fmt": "02:14.50",
+        "duration_sec": 20.5,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "THE PRIEST: \"...husband and wife!\""
+      }
+    ],
+    "opening_hook_3s": "[01:54.00-01:57.00] THE PRIEST: \"...husband and wife!\"",
+    "ending_cliffhanger": "[02:10.50-02:14.50] LADY ASHCROFT (JULIANA'S STEPMOTHER): \"You are disowned!\"",
+    "why_it_works_one_liner": "Opens immediately on a wedding betrayal at the altar shock at 01:54.00 and cuts on an unresolved power shift at 02:14.50 (20.5s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 86.6,
+      "cliffhanger_cut": 87.4,
+      "standalone_clarity": 80.0,
+      "pacing_density": 85.4,
+      "composite_score": 85.0
+    },
+    "transcript_preview": [
+      "[01:53.00-01:54.80] THE PRIEST (Off-Screen, Booming): \"...husband and wife!\"",
+      "[01:54.00-01:55.20] [SOUND FX] Dramatic musical chord swelling.",
+      "[01:55.00-01:56.80] GERALD HARRINGTON (EX-FIANCE) (Furious, Shouting): \"You have thrown yourself away!\"",
+      "[01:57.00-01:59.00] GERALD HARRINGTON (EX-FIANCE) (Livid): \"For a penniless nobody!\"",
+      "[02:00.50-02:02.80] LADY JULIANA ASHCROFT (Calm, Cutting): \"I would rather choose my own life...\"",
+      "[02:03.00-02:05.50] LADY JULIANA ASHCROFT (Firm, Final): \"...than spend another moment begging for yours.\"",
+      "[02:06.00-02:07.40] [ACTION] Gerald recoils slightly, mouth agape.",
+      "[02:07.50-02:11.50] LADY ASHCROFT (JULIANA'S STEPMOTHER) (Imperious, Shouting): \"Do not bring this man anywhere near Ashcroft Manor!\""
+    ]
+  },
+  {
+    "promo_id": "EP05-CONT",
+    "rank": 39,
+    "title": "Ep 5: Hidden Aristocrat Humiliated as a Maid",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 41.0,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 5,
+        "start_sec": 55.5,
+        "end_sec": 96.5,
+        "start_fmt": "00:55.50",
+        "end_fmt": "01:36.50",
+        "duration_sec": 41.0,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "Lady Ashcroft snatches the heavy book away and flings it disdainfully into the rain-soaked courtyard."
+      }
+    ],
+    "opening_hook_3s": "[00:55.50-00:58.50] Lady Ashcroft snatches the heavy book away and flings it disdainfully into the rain-soaked courtyard.",
+    "ending_cliffhanger": "[01:32.50-01:36.50] GERALD HARRINGTON (EX-FIANCE): \"A noblewoman reduced to a beggar's wife!\"",
+    "why_it_works_one_liner": "Opens immediately on a hidden aristocrat humiliated as a maid shock at 00:55.50 and cuts on an unresolved power shift at 01:36.50 (41.0s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 90.8,
+      "cliffhanger_cut": 71.3,
+      "standalone_clarity": 77.5,
+      "pacing_density": 71.2,
+      "composite_score": 78.7
+    },
+    "transcript_preview": [
+      "[00:54.50-00:57.50] [ACTION] Lady Ashcroft snatches the heavy book away and flings it disdainfully into the rain-soaked courtyard.",
+      "[00:55.50-00:56.80] LADY JULIANA ASHCROFT (Screaming, Desperate): \"Barbara, don't!\"",
+      "[00:57.00-00:58.20] [SOUND FX] A heavy wet slap as the leather-bound book crashes into the puddle-slicked stone pavement.",
+      "[00:59.00-01:02.50] LADY CLARISSA (SISTER) (Gleeful, Mocking): \"Even your mother's precious legacy has been cast into the dirt!\"",
+      "[01:02.40-01:04.60] GERALD HARRINGTON (EX-FIANCE) (Smug, Cruel): \"Perhaps that is where it belongs.\"",
+      "[01:05.50-01:08.50] [ACTION] Juliana drops to her knees onto the wet courtyard pavement, oblivious to the dirt soaking through her white bridal gown.",
+      "[01:10.50-01:14.50] [ACTION] The Mysterious Bearded Man bends his knees and kneels down beside Juliana, extending his scarred hand to retrieve the fallen ledger.",
+      "[01:17.80-01:19.00] DUKE ALEXANDER ASHBOURNE (Low, Gentle): \"Here you go.\""
+    ]
+  },
+  {
+    "promo_id": "EP06-CONT",
+    "rank": 29,
+    "title": "Ep 6: Hidden Aristocrat Humiliated as a Maid",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 40.7,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 6,
+        "start_sec": 74.3,
+        "end_sec": 115.0,
+        "start_fmt": "01:14.30",
+        "end_fmt": "01:55.00",
+        "duration_sec": 40.7,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "Instead of stopping her, the Mysterious Bearded Man kneels beside the table and begins inspecting and adjustin"
+      }
+    ],
+    "opening_hook_3s": "[01:14.30-01:17.30] Instead of stopping her, the Mysterious Bearded Man kneels beside the table and begins inspecting and adjusting the wobbly table leg to help.",
+    "ending_cliffhanger": "[01:51.00-01:55.00] Warm hearth crackles blending with gentle string music fading out.",
+    "why_it_works_one_liner": "Opens immediately on a hidden aristocrat humiliated as a maid shock at 01:14.30 and cuts on an unresolved power shift at 01:55.00 (40.7s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 63.2,
+      "standalone_clarity": 77.5,
+      "pacing_density": 98.0,
+      "composite_score": 82.7
+    },
+    "transcript_preview": [
+      "[01:14.30-01:16.80] [ACTION] Instead of stopping her, the Mysterious Bearded Man kneels beside the table and begins inspecting and adjusting the wobbly table leg to help.",
+      "[01:16.80-01:17.80] [ACTION] Juliana picks up a straw broom and sweeps the stone floor in front of the stone hearth.",
+      "[01:17.80-01:21.00] [ACTION] The Mysterious Bearded Man carries a heavy wooden log across the room and places it onto the iron grate in the hearth.",
+      "[01:21.00-01:23.80] [ACTION] He strikes flint and steel together over dry kindling, igniting bright sparks that catch into a flickering flame.",
+      "[01:23.80-01:30.00] [SOUND FX] Crisp crackling and snapping of dry wood catching fire in the hearth.",
+      "[01:27.50-01:29.80] [ACTION] The Mysterious Bearded Man stands up from the hearth, dusting his hands on his coat.",
+      "[01:29.00-01:29.80] DUKE ALEXANDER ASHBOURNE (Relieved): \"There.\"",
+      "[01:32.10-01:33.60] DUKE ALEXANDER ASHBOURNE (Quiet, Modest): \"It is not much.\""
+    ]
+  },
+  {
+    "promo_id": "EP07-CONT",
+    "rank": 34,
+    "title": "Ep 7: Wedding Betrayal at the Altar",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 28.6,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 7,
+        "start_sec": 65.2,
+        "end_sec": 93.8,
+        "start_fmt": "01:05.20",
+        "end_fmt": "01:33.80",
+        "duration_sec": 28.6,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "GERALD HARRINGTON (EX-FIANCE): \"I have enough influence to make a beggar disappear.\""
+      }
+    ],
+    "opening_hook_3s": "[01:05.20-01:08.20] GERALD HARRINGTON (EX-FIANCE): \"I have enough influence to make a beggar disappear.\"",
+    "ending_cliffhanger": "[01:29.80-01:33.80] ARISTOCRATIC WOMAN: \"Leaving? Gerald!\"",
+    "why_it_works_one_liner": "Opens immediately on a wedding betrayal at the altar shock at 01:05.20 and cuts on an unresolved power shift at 01:33.80 (28.6s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 82.9,
+      "cliffhanger_cut": 85.5,
+      "standalone_clarity": 80.0,
+      "pacing_density": 68.6,
+      "composite_score": 80.8
+    },
+    "transcript_preview": [
+      "[01:05.60-01:08.50] GERALD HARRINGTON (EX-FIANCE) (Furious, Threatening): \"I have enough influence to make a beggar disappear.\"",
+      "[01:08.60-01:09.50] GERALD HARRINGTON (EX-FIANCE) (Spiteful, Boastful): \"And your husband?\"",
+      "[01:09.50-01:11.20] GERALD HARRINGTON (EX-FIANCE) (Snarl): \"Where is that beggar husband?\"",
+      "[01:10.00-01:15.50] [ACTION] The Scarred Bearded Man marches purposefully toward the cottage, carrying a heavy bundle of chopped firewood bound tightly with hemp cord.",
+      "[01:16.20-01:17.50] [SOUND FX] A dull, heavy thud of timber striking the mud.",
+      "[01:21.50-01:24.00] [ACTION] Gerald freezes, his arrogant bravado instantly vanishing as cold dread overtakes his face.",
+      "[01:26.50-01:28.50] ARISTOCRATIC WOMAN (Urgent, Annoyed): \"Gerald, don't let him frighten you.\"",
+      "[01:28.60-01:30.00] GERALD HARRINGTON (EX-FIANCE) (Trembling, Trying to Save Face): \"What are you staring at?\""
+    ]
+  },
+  {
+    "promo_id": "EP08-CONT",
+    "rank": 41,
+    "title": "Ep 8: Midnight Arson & Heroic Rescue",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 50.9,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 8,
+        "start_sec": 11.9,
+        "end_sec": 62.8,
+        "start_fmt": "00:11.90",
+        "end_fmt": "01:02.80",
+        "duration_sec": 50.9,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "DUKE ALEXANDER ASHBOURNE: \"Good for wounds. Fever, too.\""
+      }
+    ],
+    "opening_hook_3s": "[00:11.90-00:14.90] DUKE ALEXANDER ASHBOURNE: \"Good for wounds. Fever, too.\"",
+    "ending_cliffhanger": "[00:58.80-01:02.80] LADY JULIANA ASHCROFT: \"And the scars... were they from the war?\"",
+    "why_it_works_one_liner": "Opens immediately on a midnight arson & heroic rescue shock at 00:11.90 and cuts on an unresolved power shift at 01:02.80 (50.9s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 67.6,
+      "standalone_clarity": 78.0,
+      "pacing_density": 59.3,
+      "composite_score": 78.4
+    },
+    "transcript_preview": [
+      "[00:12.00-00:14.60] DUKE ALEXANDER ASHBOURNE (Calm, Knowledgeable): \"Good for wounds. Fever, too.\"",
+      "[00:15.10-00:16.10] LADY JULIANA ASHCROFT (Inquiring, Soft): \"How do you know that?\"",
+      "[00:16.30-00:18.90] DUKE ALEXANDER ASHBOURNE (Somber, Matter-of-Fact): \"Soldiers learn quickly which plants keep a man alive.\"",
+      "[00:19.40-00:21.80] LADY JULIANA ASHCROFT (Observant, Lightly Teasing): \"You know more about healing than you let on.\"",
+      "[00:22.80-00:24.20] DUKE ALEXANDER ASHBOURNE (Quiet, Gritty): \"Enough to survive.\"",
+      "[00:25.00-00:26.80] LADY JULIANA ASHCROFT (Hesitant, Soft): \"Your hair and beard...\"",
+      "[00:30.10-00:31.90] LADY JULIANA ASHCROFT (Gentle, Tender): \"I could trim them for you.\"",
+      "[00:33.20-00:34.50] DUKE ALEXANDER ASHBOURNE (Firm, Low): \"Not yet.\""
+    ]
+  },
+  {
+    "promo_id": "EP09-CONT",
+    "rank": 40,
+    "title": "Ep 9: Midnight Arson & Heroic Rescue",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 47.9,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 9,
+        "start_sec": 54.0,
+        "end_sec": 101.9,
+        "start_fmt": "00:54.00",
+        "end_fmt": "01:41.90",
+        "duration_sec": 47.9,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "LADY JULIANA ASHCROFT: \"Wait.\""
+      }
+    ],
+    "opening_hook_3s": "[00:54.00-00:57.00] LADY JULIANA ASHCROFT: \"Wait.\"",
+    "ending_cliffhanger": "[01:37.90-01:41.90] LORD ASHCROFT (JULIANA'S FATHER): \"Where?\"",
+    "why_it_works_one_liner": "Opens immediately on a midnight arson & heroic rescue shock at 00:54.00 and cuts on an unresolved power shift at 01:41.90 (47.9s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 87.8,
+      "cliffhanger_cut": 76.3,
+      "standalone_clarity": 78.0,
+      "pacing_density": 66.1,
+      "composite_score": 78.7
+    },
+    "transcript_preview": [
+      "[00:54.30-00:55.20] LADY JULIANA ASHCROFT (Quiet, Focused): \"Wait.\"",
+      "[00:58.80-01:01.80] PEASANT MOTHER (Overcome with Emotion): \"His fever... it's breaking.\"",
+      "[01:04.20-01:05.50] PEASANT MOTHER (Tearful, Grateful): \"You saved him.\"",
+      "[01:05.80-01:08.20] LADY JULIANA ASHCROFT (Soft, Gracious): \"The herbs did their work. Let him rest.\"",
+      "[01:08.00-01:10.50] [ACTION] Juliana places a comforting hand over the mother's hands.",
+      "[01:10.50-01:13.00] [ACTION] The mother gathers her sleeping son in her arms and steps back toward the rainy doorway.",
+      "[01:11.20-01:14.80] PEASANT MOTHER (Reverent, Vowing): \"I will tell the village what you did. They will never forget you.\"",
+      "[01:14.50-01:15.50] [ACTION] The mother exits into the rainy twilight as Alexander pushes the door shut."
+    ]
+  },
+  {
+    "promo_id": "EP10-CONT",
+    "rank": 30,
+    "title": "Ep 10: Wedding Betrayal at the Altar",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 53.3,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 10,
+        "start_sec": 0.0,
+        "end_sec": 53.3,
+        "start_fmt": "00:00.00",
+        "end_fmt": "00:53.30",
+        "duration_sec": 53.3,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "Juliana quietly studies the botanical illustrations by firelight, a bundle of fresh dried herbs resting on the"
+      }
+    ],
+    "opening_hook_3s": "[00:00.00-00:03.00] Juliana quietly studies the botanical illustrations by firelight, a bundle of fresh dried herbs resting on the table.",
+    "ending_cliffhanger": "[00:49.30-00:53.30] LADY JULIANA ASHCROFT: \"Does it hurt?\"",
+    "why_it_works_one_liner": "Opens immediately on a wedding betrayal at the altar shock at 00:00.00 and cuts on an unresolved power shift at 00:53.30 (53.3s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 70.8,
+      "standalone_clarity": 80.0,
+      "pacing_density": 78.4,
+      "composite_score": 82.7
+    },
+    "transcript_preview": [
+      "[00:00.00-00:02.20] [ACTION] Juliana quietly studies the botanical illustrations by firelight, a bundle of fresh dried herbs resting on the table.",
+      "[00:02.10-00:03.30] [SOUND FX] A heavy wooden door suddenly creaks and bangs open in the quiet cottage.",
+      "[00:02.20-00:03.50] [ACTION] Juliana jerks her head up from the book, startled by the sudden intrusion.",
+      "[00:05.10-00:06.60] LADY JULIANA ASHCROFT (Alarmed, Breathless): \"Alexander!\"",
+      "[00:07.50-00:09.00] DUKE ALEXANDER ASHBOURNE (Gruff, Strained): \"It is nothing.\"",
+      "[00:09.15-00:11.45] LADY JULIANA ASHCROFT (Urgent, Worried): \"There is blood running down your arm.\"",
+      "[00:11.90-00:14.30] DUKE ALEXANDER ASHBOURNE (Stiff, Dismissive): \"A cut from the tenant fields.\"",
+      "[00:14.50-00:16.00] LADY JULIANA ASHCROFT (Commanding, Resolute): \"Sit down.\""
+    ]
+  },
+  {
+    "promo_id": "EP11-CONT",
+    "rank": 14,
+    "title": "Ep 11: Framed Husband & Sadistic Ultimatum",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 39.0,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 11,
+        "start_sec": 58.0,
+        "end_sec": 97.0,
+        "start_fmt": "00:58.00",
+        "end_fmt": "01:37.00",
+        "duration_sec": 39.0,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "LADY JULIANA ASHCROFT: \"Stop! Those are my mother's medicines!\""
+      }
+    ],
+    "opening_hook_3s": "[00:58.00-01:01.00] LADY JULIANA ASHCROFT: \"Stop! Those are my mother's medicines!\"",
+    "ending_cliffhanger": "[01:33.00-01:37.00] Metallic clinking of the gold chain sliding against fabric.",
+    "why_it_works_one_liner": "Opens immediately on a framed husband & sadistic ultimatum shock at 00:58.00 and cuts on an unresolved power shift at 01:37.00 (39.0s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 94.6,
+      "standalone_clarity": 78.0,
+      "pacing_density": 86.9,
+      "composite_score": 90.6
+    },
+    "transcript_preview": [
+      "[00:58.00-01:00.10] LADY JULIANA ASHCROFT (Distressed, Pleading): \"Stop! Those are my mother's medicines!\"",
+      "[01:00.00-01:01.80] [ACTION] The Constable aggressively pulls folded bed linens from a shelf and hurls them onto the damp floor.",
+      "[01:01.80-01:03.80] LADY JULIANA ASHCROFT (Crying, Desperate): \"Please! There is nothing here!\"",
+      "[01:03.90-01:05.70] CONSTABLE (Cold, Indifferent): \"Then you have nothing to fear.\"",
+      "[01:06.00-01:07.50] LADY JULIANA ASHCROFT (Heartbroken, Sobbing): \"Those are all I have left!\"",
+      "[01:07.50-01:11.60] GERALD HARRINGTON (EX-FIANCE) (Cruel, Condescending): \"Stand aside. Look at this place. A perfect hiding hole for a thief.\"",
+      "[01:12.10-01:15.00] LADY JULIANA ASHCROFT (Furious, Accusatory): \"You planted this accusation because you cannot bear that I am happy without you!\"",
+      "[01:15.50-01:16.80] GERALD HARRINGTON (EX-FIANCE) (Scoffing, Sinister): \"Happy?\""
+    ]
+  },
+  {
+    "promo_id": "EP12-CONT",
+    "rank": 1,
+    "title": "Ep 12: Wedding Betrayal at the Altar",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 27.4,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 12,
+        "start_sec": 0.5,
+        "end_sec": 27.9,
+        "start_fmt": "00:00.50",
+        "end_fmt": "00:27.90",
+        "duration_sec": 27.4,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "CONSTABLE: \"Put out your hands, veteran. You are under arrest for theft.\""
+      }
+    ],
+    "opening_hook_3s": "[00:00.50-00:03.50] CONSTABLE: \"Put out your hands, veteran. You are under arrest for theft.\"",
+    "ending_cliffhanger": "[00:23.90-00:27.90] LADY JULIANA ASHCROFT: \"You planted it!\"",
+    "why_it_works_one_liner": "Opens immediately on a wedding betrayal at the altar shock at 00:00.50 and cuts on an unresolved power shift at 00:27.90 (27.4s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 97.4,
+      "standalone_clarity": 80.0,
+      "pacing_density": 98.0,
+      "composite_score": 93.6
+    },
+    "transcript_preview": [
+      "[00:00.50-00:04.50] CONSTABLE (Authoritative, Stern): \"Put out your hands, veteran. You are under arrest for theft.\"",
+      "[00:04.80-00:06.00] [ACTION] Juliana steps firmly forward, shielding Alexander with her body.",
+      "[00:05.70-00:08.80] LADY JULIANA ASHCROFT (Furious, Defiant): \"No! That watch was not in his coat!\"",
+      "[00:10.00-00:11.70] CONSTABLE (Blunt, Unyielding): \"I found it there myself.\"",
+      "[00:12.30-00:13.90] LADY JULIANA ASHCROFT (Passionate, Accusatory): \"Then someone put it there!\"",
+      "[00:14.30-00:20.60] GERALD HARRINGTON (EX-FIANCE) (Smug, Condescending): \"The proof is in his coat, Juliana. A valuable pocket watch doesn't just walk into a beggar's pocket.\"",
+      "[00:21.60-00:23.60] DUKE ALEXANDER ASHBOURNE (Low, Steady, Dangerous): \"I have never touched your property.\"",
+      "[00:23.70-00:26.80] GERALD HARRINGTON (EX-FIANCE) (Mocking, Malicious): \"Then perhaps your wife should explain why it was found in your coat.\""
+    ]
+  },
+  {
+    "promo_id": "EP13-CONT",
+    "rank": 15,
+    "title": "Ep 13: Wedding Betrayal at the Altar",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 26.0,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 13,
+        "start_sec": 47.8,
+        "end_sec": 73.8,
+        "start_fmt": "00:47.80",
+        "end_fmt": "01:13.80",
+        "duration_sec": 26.0,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "DUKE ALEXANDER ASHBOURNE: \"Juliana, stop!\""
+      }
+    ],
+    "opening_hook_3s": "[00:47.80-00:50.80] DUKE ALEXANDER ASHBOURNE: \"Juliana, stop!\"",
+    "ending_cliffhanger": "[01:09.80-01:13.80] DUKE ALEXANDER ASHBOURNE: \"Please... enough!\"",
+    "why_it_works_one_liner": "Opens immediately on a wedding betrayal at the altar shock at 00:47.80 and cuts on an unresolved power shift at 01:13.80 (26.0s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 86.0,
+      "standalone_clarity": 80.0,
+      "pacing_density": 98.0,
+      "composite_score": 90.2
+    },
+    "transcript_preview": [
+      "[00:47.20-00:48.80] DUKE ALEXANDER ASHBOURNE (Screaming, Panicked): \"Juliana, stop!\"",
+      "[00:47.80-00:49.20] [SOUND FX] Rattling of heavy iron chains.",
+      "[00:50.00-00:53.00] [ACTION] Juliana crawls forward on all fours, lowering her head under the jagged, arching thorns.",
+      "[00:51.50-00:52.60] DUKE ALEXANDER ASHBOURNE (Strangled, Weeping): \"Please...\"",
+      "[00:54.00-00:56.50] [ACTION] Sharp blackthorn spines rake across Juliana's fingers and knuckles, carving bloody gashes across her skin.",
+      "[00:54.50-00:55.80] LADY JULIANA ASHCROFT (Gasping in Pain): \"No...\"",
+      "[00:57.20-00:58.60] LADY CLARISSA (SISTER) (Gleeful, Derisive): \"Look at her hands.\"",
+      "[00:58.80-01:01.80] LADY CLARISSA (SISTER) (Mocking, Spiteful): \"The lady has finally found something worthy of her.\""
+    ]
+  },
+  {
+    "promo_id": "EP14-CONT",
+    "rank": 21,
+    "title": "Ep 14: Wedding Betrayal at the Altar",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 25.0,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 14,
+        "start_sec": 0.0,
+        "end_sec": 25.0,
+        "start_fmt": "00:00.00",
+        "end_fmt": "00:25.00",
+        "duration_sec": 25.0,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "Juliana's blood-streaked, mud-caked hand slowly uncurls amidst the thorns, revealing the ornate emerald signet"
+      }
+    ],
+    "opening_hook_3s": "[00:00.00-00:03.00] Juliana's blood-streaked, mud-caked hand slowly uncurls amidst the thorns, revealing the ornate emerald signet ring resting in her palm.",
+    "ending_cliffhanger": "[00:21.00-00:25.00] DUKE ALEXANDER ASHBOURNE: \"What have they done to you?\"",
+    "why_it_works_one_liner": "Opens immediately on a wedding betrayal at the altar shock at 00:00.00 and cuts on an unresolved power shift at 00:25.00 (25.0s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 70.4,
+      "standalone_clarity": 80.0,
+      "pacing_density": 98.0,
+      "composite_score": 85.5
+    },
+    "transcript_preview": [
+      "[00:00.50-00:05.50] [ACTION] Juliana's blood-streaked, mud-caked hand slowly uncurls amidst the thorns, revealing the ornate emerald signet ring resting in her palm.",
+      "[00:01.00-00:05.50] [SOUND FX] Eerie cold wind whistling over the briars with deep, atmospheric cello chords.",
+      "[00:07.70-00:09.00] LADY JULIANA ASHCROFT (Exhausted, Resolute): \"I found it.\"",
+      "[00:10.50-00:12.70] LADY JULIANA ASHCROFT (Firm, Commanding): \"Now release my husband.\"",
+      "[00:12.50-00:13.50] [ACTION] The Constable takes the ring from her bloodied fingers.",
+      "[00:14.20-00:15.40] [SOUND FX] Sharp metallic click and clinking rattle of heavy iron handcuffs unlocking and falling away.",
+      "[00:14.50-00:15.60] [ACTION] The Constable unlocks the cuffs, freeing Alexander's large hands.",
+      "[00:16.80-00:18.00] DUKE ALEXANDER ASHBOURNE (Gasping, Urgent): \"Juliana.\""
+    ]
+  },
+  {
+    "promo_id": "EP15-CONT",
+    "rank": 17,
+    "title": "Ep 15: Framed Husband & Sadistic Ultimatum",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 38.6,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 15,
+        "start_sec": 47.4,
+        "end_sec": 86.0,
+        "start_fmt": "00:47.40",
+        "end_fmt": "01:26.00",
+        "duration_sec": 38.6,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "The Thug with Cap violently shoves Juliana back with both hands; she cries out as she loses her balance and cr"
+      }
+    ],
+    "opening_hook_3s": "[00:47.40-00:50.40] The Thug with Cap violently shoves Juliana back with both hands; she cries out as she loses her balance and crashes hard onto the wet stone path.",
+    "ending_cliffhanger": "[01:22.00-01:26.00] Tense, low dramatic cello swell holding into an abrupt cliffhanger cut.",
+    "why_it_works_one_liner": "Opens immediately on a framed husband & sadistic ultimatum shock at 00:47.40 and cuts on an unresolved power shift at 01:26.00 (38.6s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 95.2,
+      "standalone_clarity": 78.0,
+      "pacing_density": 77.9,
+      "composite_score": 89.4
+    },
+    "transcript_preview": [
+      "[00:47.40-00:49.50] [ACTION] The Thug with Cap violently shoves Juliana back with both hands; she cries out as she loses her balance and crashes hard onto the wet stone path.",
+      "[00:47.80-00:49.00] LADY JULIANA ASHCROFT (Gasping Cry): \"Ah!\"",
+      "[00:50.00-00:53.50] [ACTION] Juliana crawls forward on her elbows; fresh crimson blood seeps profusely through her white gauze bandages as she reaches for the ruined blossoms.",
+      "[00:53.50-00:55.70] LADY JULIANA ASHCROFT (Broken, Sobbing): \"My mother's plants...\"",
+      "[00:57.30-00:59.80] BALD THUG (Cruel, Laughing): \"Look at her! Crying over weeds!\"",
+      "[01:00.00-01:02.00] [ACTION] The Tall Thug hoists his heavy wooden club above his head to crush the remaining herbs right before Juliana.",
+      "[01:00.00-01:01.00] LADY JULIANA ASHCROFT (Screaming): \"Stop!\"",
+      "[01:03.50-01:07.50] [ACTION] Alexander storms forward with lethal intensity, dark hair flying, breath misting in the cold, radiating untamed rage."
+    ]
+  },
+  {
+    "promo_id": "EP16-CONT",
+    "rank": 12,
+    "title": "Ep 16: Hidden Aristocrat Humiliated as a Maid",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 26.1,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 16,
+        "start_sec": 19.2,
+        "end_sec": 45.3,
+        "start_fmt": "00:19.20",
+        "end_fmt": "00:45.30",
+        "duration_sec": 26.1,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "Alexander strikes the thug across the chest and slams him violently into the muddy ground beside the stone wal"
+      }
+    ],
+    "opening_hook_3s": "[00:19.20-00:22.20] Alexander strikes the thug across the chest and slams him violently into the muddy ground beside the stone wall.",
+    "ending_cliffhanger": "[00:41.30-00:45.30] THUG WITH CAP: \"No one!\"",
+    "why_it_works_one_liner": "Opens immediately on a hidden aristocrat humiliated as a maid shock at 00:19.20 and cuts on an unresolved power shift at 00:45.30 (26.1s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 90.8,
+      "standalone_clarity": 77.5,
+      "pacing_density": 98.0,
+      "composite_score": 91.0
+    },
+    "transcript_preview": [
+      "[00:19.20-00:21.80] [ACTION] Alexander strikes the thug across the chest and slams him violently into the muddy ground beside the stone wall.",
+      "[00:19.80-00:21.20] [SOUND FX] Heavy thud of a body crashing into soil and wood.",
+      "[00:23.00-00:23.80] BALD THUG (Yelling): \"Aaargh!\"",
+      "[00:24.20-00:25.50] [SOUND FX] Loud wooden scrape and crunch as the Bald Thug slides across the planks into the fence.",
+      "[00:25.80-00:27.10] THIRD THUG (Desperate, Shouting): \"Stay back!\"",
+      "[00:26.50-00:28.50] [ACTION] Alexander deflects the strike with his forearm, drives a swift counter-blow into the thug's torso, and spins him violently to the ground.",
+      "[00:27.00-00:28.20] [SOUND FX] Solid bone-and-fist impact followed by a groaning thud.",
+      "[00:32.00-00:33.80] LADY JULIANA ASHCROFT (Breathless, Overwhelmed): \"Alexander...\""
+    ]
+  },
+  {
+    "promo_id": "EP17-CONT",
+    "rank": 37,
+    "title": "Ep 17: Hidden Aristocrat Humiliated as a Maid",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 25.7,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 17,
+        "start_sec": 0.0,
+        "end_sec": 25.7,
+        "start_fmt": "00:00.00",
+        "end_fmt": "00:25.70",
+        "duration_sec": 25.7,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "Juliana sits on her knees in her dirt-smudged dress, her hands wrapped in clean linen bandages, sorrowfully ex"
+      }
+    ],
+    "opening_hook_3s": "[00:00.00-00:03.00] Juliana sits on her knees in her dirt-smudged dress, her hands wrapped in clean linen bandages, sorrowfully examining the wreckage. In the distant background, Alexander paces near the perimeter fence.",
+    "ending_cliffhanger": "[00:21.70-00:25.70] LADY JULIANA ASHCROFT: \"Even if there were ten of them?\"",
+    "why_it_works_one_liner": "Opens immediately on a hidden aristocrat humiliated as a maid shock at 00:00.00 and cuts on an unresolved power shift at 00:25.70 (25.7s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 64.8,
+      "standalone_clarity": 77.5,
+      "pacing_density": 76.9,
+      "composite_score": 80.1
+    },
+    "transcript_preview": [
+      "[00:00.00-00:03.00] [ACTION] Juliana sits on her knees in her dirt-smudged dress, her hands wrapped in clean linen bandages, sorrowfully examining the wreckage. In the distant background, Alexander paces near the perimeter fence.",
+      "[00:03.00-00:07.00] [ACTION] Juliana gently lifts a tiny, delicate white daisy clinging to its exposed roots out of the soil, cupping it in her palm.",
+      "[00:09.30-00:11.30] LADY JULIANA ASHCROFT (Soft, Emotional): \"Some of them survived.\"",
+      "[00:11.50-00:14.00] [SOUND FX] Rhythmic, heavy thuds of an iron hammer pounding into weathered wood.",
+      "[00:11.50-00:14.00] [ACTION] Alexander firmly drives nails into a fractured fence post, his brow furrowed with focused determination.",
+      "[00:14.30-00:15.30] LADY JULIANA ASHCROFT (Grateful, Sincere): \"Thank you.\"",
+      "[00:16.80-00:17.80] DUKE ALEXANDER ASHBOURNE (Gruff, Low): \"For what?\"",
+      "[00:18.20-00:20.50] LADY JULIANA ASHCROFT (Trembling, Heartfelt): \"For standing between me and those men.\""
+    ]
+  },
+  {
+    "promo_id": "EP18-CONT",
+    "rank": 22,
+    "title": "Ep 18: Presumed-Dead Duke Crashes Wedding in Full Regalia",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 45.0,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 18,
+        "start_sec": 70.5,
+        "end_sec": 115.5,
+        "start_fmt": "01:10.50",
+        "end_fmt": "01:55.50",
+        "duration_sec": 45.0,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "DUKE ALEXANDER ASHBOURNE: \"Juliana!\""
+      }
+    ],
+    "opening_hook_3s": "[01:10.50-01:13.50] DUKE ALEXANDER ASHBOURNE: \"Juliana!\"",
+    "ending_cliffhanger": "[01:51.50-01:55.50] Loud explosion of shattering window glass and splintering wood.",
+    "why_it_works_one_liner": "Opens immediately on a presumed-dead duke crashes wedding in full regalia shock at 01:10.50 and cuts on an unresolved power shift at 01:55.50 (45.0s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 96.4,
+      "cliffhanger_cut": 85.9,
+      "standalone_clarity": 81.0,
+      "pacing_density": 69.0,
+      "composite_score": 85.3
+    },
+    "transcript_preview": [
+      "[01:13.50-01:15.50] DUKE ALEXANDER ASHBOURNE (Roaring in Terror): \"Juliana!\"",
+      "[01:15.00-01:16.80] LADY JULIANA ASHCROFT (Defiant, Weeping): \"It's my mother's!\"",
+      "[01:16.80-01:21.50] [ACTION] Juliana snatches the scorched leather ledger from the burning table, pulling it tightly against her chest with both bandaged hands.",
+      "[01:24.00-01:26.20] LADY JULIANA ASHCROFT (Screaming, Blood-Curdling): \"Alexander!\"",
+      "[01:26.50-01:29.50] [ACTION] Alexander lunges across the room, tackling her to the wooden floor and covering her body entirely with his own.",
+      "[01:26.50-01:27.50] DUKE ALEXANDER ASHBOURNE (Screaming Command): \"Down!\"",
+      "[01:27.80-01:30.00] [SOUND FX] Massive wooden beam crashes directly where Juliana had been standing, showering them in sparks.",
+      "[01:31.50-01:38.00] [ACTION] Alexander lifts his head slightly, checking her face and cradling her cheek tenderly."
+    ]
+  },
+  {
+    "promo_id": "EP19-CONT",
+    "rank": 47,
+    "title": "Ep 19: Midnight Arson & Heroic Rescue",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 22.43,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 19,
+        "start_sec": 97.2,
+        "end_sec": 119.63,
+        "start_fmt": "01:37.20",
+        "end_fmt": "01:59.63",
+        "duration_sec": 22.43,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "The heavy wooden barn doors creak open. Alexander steps into the lantern light, carrying a bundle of firewood "
+      }
+    ],
+    "opening_hook_3s": "[01:37.20-01:40.20] The heavy wooden barn doors creak open. Alexander steps into the lantern light, carrying a bundle of firewood and a thick blanket under his arm.",
+    "ending_cliffhanger": "[01:55.63-01:59.63] Slow cinematic push-in on the couple nestled together in the warm lantern glow. Alexander wraps his arm firmly around Juliana as she closes her eyes in exhausted relief, while his piercing gaze stares resolutely into the darkness, determined to reclaim everything that was stolen.",
+    "why_it_works_one_liner": "Opens immediately on a midnight arson & heroic rescue shock at 01:37.20 and cuts on an unresolved power shift at 01:59.63 (22.4s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 40.0,
+      "standalone_clarity": 78.0,
+      "pacing_density": 61.7,
+      "composite_score": 70.5
+    },
+    "transcript_preview": [
+      "[01:37.20-01:40.00] [ACTION] The heavy wooden barn doors creak open. Alexander steps into the lantern light, carrying a bundle of firewood and a thick blanket under his arm.",
+      "[01:37.40-01:39.40] LADY JULIANA ASHCROFT: \"We have lost everything.\"",
+      "[01:40.40-01:42.60] LADY JULIANA ASHCROFT (Despairing, Broken): \"I don't know what we will do tomorrow.\"",
+      "[01:43.00-01:46.00] [ACTION] Alexander steps up behind her and gently drapes the thick woolen blanket over her trembling shoulders, resting his hands reassuringly on her.",
+      "[01:44.20-01:46.20] DUKE ALEXANDER ASHBOURNE (Soft, Steadfast): \"Tomorrow, we begin again.\"",
+      "[01:47.30-01:49.20] LADY JULIANA ASHCROFT (Faint Smile, Emotional): \"You make it sound so simple.\"",
+      "[01:49.80-01:52.50] [ACTION] Alexander sits down beside her in the straw. Juliana leans gently against his shoulder, letting her weary head rest against his broad chest."
+    ]
+  },
+  {
+    "promo_id": "EP20-CONT",
+    "rank": 35,
+    "title": "Ep 20: Framed Husband & Sadistic Ultimatum",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 52.15,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 20,
+        "start_sec": 62.6,
+        "end_sec": 114.75,
+        "start_fmt": "01:02.60",
+        "end_fmt": "01:54.75",
+        "duration_sec": 52.15,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "The barn door opens, revealing daylight outside. SEAMUS, an older weathered villager in a waistcoat, carries a"
+      }
+    ],
+    "opening_hook_3s": "[01:02.60-01:05.60] The barn door opens, revealing daylight outside. SEAMUS, an older weathered villager in a waistcoat, carries a wooden bucket inside, his expression etched with deep sorrow and concern.",
+    "ending_cliffhanger": "[01:50.75-01:54.75] Tight close-up profile of Catherine gazing out the windowpane, her icy eyes burning with insatiable ambition as dramatic strings swell to a menacing cliffhanger hold.",
+    "why_it_works_one_liner": "Opens immediately on a framed husband & sadistic ultimatum shock at 01:02.60 and cuts on an unresolved power shift at 01:54.75 (52.1s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 82.1,
+      "standalone_clarity": 66.0,
+      "pacing_density": 66.7,
+      "composite_score": 80.8
+    },
+    "transcript_preview": [
+      "[01:00.00-01:04.50] [ACTION] The barn door opens, revealing daylight outside. SEAMUS, an older weathered villager in a waistcoat, carries a wooden bucket inside, his expression etched with deep sorrow and concern.",
+      "[01:02.60-01:06.60] SEAMUS (Empathetic): \"Your palms are still raw from the fire. You shouldn't be working in this freezing draft.\"",
+      "[01:04.80-01:06.80] [ACTION] Seamus reaches down to take the handle of the basket from her.",
+      "[01:06.70-01:09.10] LADY JULIANA ASHCROFT (Fierce, Resolute): \"If I stop, Seamus, the lung fever in the valley wins.\"",
+      "[01:09.20-01:10.50] LADY JULIANA ASHCROFT (Defiant): \"I do not yield to a cold draft.\"",
+      "[01:10.60-01:12.30] SEAMUS (Desperate, Grieving): \"You are a viscount's daughter!\"",
+      "[01:12.40-01:14.20] SEAMUS (Pleading): \"Sleeping on straw, sorting weeds!\"",
+      "[01:14.30-01:16.20] SEAMUS (Frustrated): \"Let the village tend to itself for once!\""
+    ]
+  },
+  {
+    "promo_id": "EP21-CONT",
+    "rank": 36,
+    "title": "Ep 21: Midnight Arson & Heroic Rescue",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 56.4,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 21,
+        "start_sec": 42.8,
+        "end_sec": 99.2,
+        "start_fmt": "00:42.80",
+        "end_fmt": "01:39.20",
+        "duration_sec": 56.4,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "Lady Juliana rushes in, sets the ledger on the rustic wooden table, and quickly flips open the pages."
+      }
+    ],
+    "opening_hook_3s": "[00:42.80-00:45.80] Lady Juliana rushes in, sets the ledger on the rustic wooden table, and quickly flips open the pages.",
+    "ending_cliffhanger": "[01:35.20-01:39.20] LADY JULIANA ASHCROFT: \"What do you mean? Is someone ill? The Dowager Duchess?\"",
+    "why_it_works_one_liner": "Opens immediately on a midnight arson & heroic rescue shock at 00:42.80 and cuts on an unresolved power shift at 01:39.20 (56.4s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 67.6,
+      "standalone_clarity": 78.0,
+      "pacing_density": 71.4,
+      "composite_score": 80.2
+    },
+    "transcript_preview": [
+      "[00:42.80-00:45.50] [SOUND FX] Heavy, raspy chest coughs echoing in the small room, accompanied by crackling hearth fire.",
+      "[00:45.50-00:48.00] [ACTION] Lady Juliana rushes in, sets the ledger on the rustic wooden table, and quickly flips open the pages.",
+      "[00:47.30-00:48.80] LADY JULIANA ASHCROFT (Alarmed, Focused): \"His skin is burning hot.\"",
+      "[00:48.80-00:50.50] [ACTION] Lady Juliana places her bandaged hand against Toby's flushed, sweating forehead as he wheezes painfully.",
+      "[00:48.90-00:50.80] LADY JULIANA ASHCROFT (Commanding): \"Prudence, fetch hot water immediately!\"",
+      "[00:51.20-00:53.00] PRUDENCE (Hurried, Obedient): \"Yes! Right away, I will get it!\"",
+      "[00:53.00-00:55.00] [ACTION] Prudence wraps a cloth around the iron handle of the steaming kettle resting over the hearth fire and lifts it.",
+      "[00:54.10-00:58.20] LADY JULIANA ASHCROFT (Introspective, Determined): \"I cannot let my own weariness stop me. This boy needs my mother's knowledge.\""
+    ]
+  },
+  {
+    "promo_id": "EP22-CONT",
+    "rank": 6,
+    "title": "Ep 22: Framed Husband & Sadistic Ultimatum",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 39.0,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 22,
+        "start_sec": 92.0,
+        "end_sec": 131.0,
+        "start_fmt": "01:32.00",
+        "end_fmt": "02:11.00",
+        "duration_sec": 39.0,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "Lady Juliana stops in her tracks and gazes upward in awe at the soaring gilded ceilings and aristocratic crest"
+      }
+    ],
+    "opening_hook_3s": "[01:32.00-01:35.00] Lady Juliana stops in her tracks and gazes upward in awe at the soaring gilded ceilings and aristocratic crest.",
+    "ending_cliffhanger": "[02:07.00-02:11.00] LADY JULIANA ASHCROFT: \"Who has been treating you?\"",
+    "why_it_works_one_liner": "Opens immediately on a framed husband & sadistic ultimatum shock at 01:32.00 and cuts on an unresolved power shift at 02:11.00 (39.0s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 99.0,
+      "standalone_clarity": 78.0,
+      "pacing_density": 88.3,
+      "composite_score": 92.1
+    },
+    "transcript_preview": [
+      "[01:31.50-01:36.00] [ACTION] Lady Juliana stops in her tracks and gazes upward in awe at the soaring gilded ceilings and aristocratic crest.",
+      "[01:34.50-01:36.00] LADY JULIANA ASHCROFT (Breathless): \"This house...\"",
+      "[01:36.00-01:38.50] [ACTION] Prudence rushes into frame, grabbing Juliana's arm to keep her moving.",
+      "[01:36.00-01:38.50] PRUDENCE (Panicked, Hushed): \"Do not stare. Keep walking.\"",
+      "[01:45.50-01:48.50] [ACTION] Lady Juliana reaches out with a trembling hand and quietly turns the ornate brass and glass door knob.",
+      "[01:46.50-01:48.50] [SOUND FX] Faint, muffled click of the heavy door lock turning.",
+      "[01:49.00-01:54.00] [SOUND FX] Labored, raspy, shallow breathing echoing in the quiet room.",
+      "[01:53.80-01:56.00] [ACTION] Lady Juliana hurries inside, sets the wooden bucket onto the floor, and rushes to the bedside."
+    ]
+  },
+  {
+    "promo_id": "EP23-CONT",
+    "rank": 20,
+    "title": "Ep 23: Framed Husband & Sadistic Ultimatum",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 52.5,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 23,
+        "start_sec": 79.0,
+        "end_sec": 131.5,
+        "start_fmt": "01:19.00",
+        "end_fmt": "02:11.50",
+        "duration_sec": 52.5,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "LADY JULIANA ASHCROFT: \"Someone is poisoning her.\""
+      }
+    ],
+    "opening_hook_3s": "[01:19.00-01:22.00] LADY JULIANA ASHCROFT: \"Someone is poisoning her.\"",
+    "ending_cliffhanger": "[02:07.50-02:11.50] Loud, metallic clack of the door latch turning, followed by the slow creak of wood hinges.",
+    "why_it_works_one_liner": "Opens immediately on a framed husband & sadistic ultimatum shock at 01:19.00 and cuts on an unresolved power shift at 02:11.50 (52.5s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 97.0,
+      "cliffhanger_cut": 90.4,
+      "standalone_clarity": 78.0,
+      "pacing_density": 76.6,
+      "composite_score": 87.2
+    },
+    "transcript_preview": [
+      "[01:19.00-01:21.50] LADY JULIANA ASHCROFT (Cold, Deadly Serious): \"Someone is poisoning her.\"",
+      "[01:21.50-01:22.50] [SOUND FX] Sharp intake of breath from Prudence.",
+      "[01:22.00-01:24.00] PRUDENCE (Muffled, Horrified): \"Poison?\"",
+      "[01:26.00-01:28.00] LADY JULIANA ASHCROFT (Venomous, Resolute): \"Arsenic.\"",
+      "[01:28.00-01:30.50] [SOUND FX] Sudden violent coughing and sputtering from the Duchess.",
+      "[01:34.50-01:37.00] PRUDENCE (Desperate, Begging): \"Can you save her?\"",
+      "[01:37.50-01:40.00] LADY JULIANA ASHCROFT (Focused, Resolute): \"I can try.\"",
+      "[01:44.50-01:52.00] [SOUND FX] Heavy, rhythmic scraping of stone pestle grinding charcoal and dried herbs."
+    ]
+  },
+  {
+    "promo_id": "EP24-CONT",
+    "rank": 2,
+    "title": "Ep 24: Hidden Aristocrat Humiliated as a Maid",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 31.0,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 24,
+        "start_sec": 3.5,
+        "end_sec": 34.5,
+        "start_fmt": "00:03.50",
+        "end_fmt": "00:34.50",
+        "duration_sec": 31.0,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "The noblewoman halts in the center of the chamber, tapping her riding crop against her gloved palm as her cold"
+      }
+    ],
+    "opening_hook_3s": "[00:03.50-00:06.50] The noblewoman halts in the center of the chamber, tapping her riding crop against her gloved palm as her cold gaze sweeps across the two maids.",
+    "ending_cliffhanger": "[00:30.50-00:34.50] Juliana gasps in pain, clutching her stomach and bending over as she absorbs the brutal strike.",
+    "why_it_works_one_liner": "Opens immediately on a hidden aristocrat humiliated as a maid shock at 00:03.50 and cuts on an unresolved power shift at 00:34.50 (31.0s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 99.0,
+      "standalone_clarity": 77.5,
+      "pacing_density": 98.0,
+      "composite_score": 93.5
+    },
+    "transcript_preview": [
+      "[00:04.00-00:06.50] [ACTION] The noblewoman halts in the center of the chamber, tapping her riding crop against her gloved palm as her cold gaze sweeps across the two maids.",
+      "[00:06.80-00:08.40] NOBLEWOMAN (Sharp, Demanding): \"Who are you?\"",
+      "[00:08.50-00:12.00] LADY JULIANA ASHCROFT (Humble, Measured): \"Juliana, my lady. I was hired for the winter cleaning.\"",
+      "[00:13.00-00:16.40] NOBLEWOMAN (Accusatory, Strict): \"And who gave you permission to enter this chamber?\"",
+      "[00:18.80-00:20.50] [ACTION] Behind her grey skirt, Juliana quickly slips the small glass remedy vial into her apron pocket with her charcoal-dusted fingers.",
+      "[00:20.80-00:22.20] LADY JULIANA ASHCROFT (Softly Defiant): \"I heard her. I thought Her Grace needed help.\"",
+      "[00:22.50-00:26.50] NOBLEWOMAN (Scoffing, Cruel): \"You thought? A new maid thinks she knows better than the physicians?\"",
+      "[00:27.00-00:28.60] LADY JULIANA ASHCROFT (Emphatic, Defiant): \"She is suffering.\""
+    ]
+  },
+  {
+    "promo_id": "EP25-CONT",
+    "rank": 25,
+    "title": "Ep 25: Midnight Arson & Heroic Rescue",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 44.7,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 25,
+        "start_sec": 18.8,
+        "end_sec": 63.5,
+        "start_fmt": "00:18.80",
+        "end_fmt": "01:03.50",
+        "duration_sec": 44.7,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "Alexander's gloved fingers pull back the torn fabric of her cloak and sleeve, revealing a raw, bloody welt sla"
+      }
+    ],
+    "opening_hook_3s": "[00:18.80-00:21.80] Alexander's gloved fingers pull back the torn fabric of her cloak and sleeve, revealing a raw, bloody welt slashing across her bare shoulder.",
+    "ending_cliffhanger": "[00:59.50-01:03.50] DUKE ALEXANDER ASHBOURNE: \"The Dowager?\"",
+    "why_it_works_one_liner": "Opens immediately on a midnight arson & heroic rescue shock at 00:18.80 and cuts on an unresolved power shift at 01:03.50 (44.7s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 80.5,
+      "standalone_clarity": 78.0,
+      "pacing_density": 72.1,
+      "composite_score": 84.2
+    },
+    "transcript_preview": [
+      "[00:18.80-00:22.50] [ACTION] Alexander's gloved fingers pull back the torn fabric of her cloak and sleeve, revealing a raw, bloody welt slashing across her bare shoulder.",
+      "[00:24.00-00:25.50] DUKE ALEXANDER ASHBOURNE (Seething, Dangerous): \"Who did this?\"",
+      "[00:27.50-00:29.30] LADY JULIANA ASHCROFT (Subdued, Weary): \"It does not matter.\"",
+      "[00:32.80-00:34.50] [ACTION] Alexander steps directly into her space, firmly taking her hand in his.",
+      "[00:32.80-00:33.80] DUKE ALEXANDER ASHBOURNE (Demanding, Stern): \"Who?\"",
+      "[00:36.00-00:37.80] LADY JULIANA ASHCROFT (Quiet, Apprehensive): \"Lady Catherine.\"",
+      "[00:39.20-00:41.00] DUKE ALEXANDER ASHBOURNE (Low, Interrogating): \"Where did you meet her?\"",
+      "[00:41.20-00:44.20] LADY JULIANA ASHCROFT (Hedged): \"I was in the wrong chamber. I was punished as a maid.\""
+    ]
+  },
+  {
+    "promo_id": "EP26-CONT",
+    "rank": 3,
+    "title": "Ep 26: Framed Husband & Sadistic Ultimatum",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 30.08,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 26,
+        "start_sec": 90.8,
+        "end_sec": 120.88,
+        "start_fmt": "01:30.80",
+        "end_fmt": "02:00.88",
+        "duration_sec": 30.08,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "The Duchess's mouth hangs open in pure disbelief as she stares fixedly at Juliana's hand."
+      }
+    ],
+    "opening_hook_3s": "[01:30.80-01:33.80] The Duchess's mouth hangs open in pure disbelief as she stares fixedly at Juliana's hand.",
+    "ending_cliffhanger": "[01:56.88-02:00.88] Tight close-up of the Dowager Duchess's two weathered hands tightly clasping Juliana's hand, holding the signet ring between them as a dramatic orchestral cliffhanger chord swells, cutting sharply to black.",
+    "why_it_works_one_liner": "Opens immediately on a framed husband & sadistic ultimatum shock at 01:30.80 and cuts on an unresolved power shift at 02:00.88 (30.1s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 99.0,
+      "standalone_clarity": 78.0,
+      "pacing_density": 95.1,
+      "composite_score": 93.2
+    },
+    "transcript_preview": [
+      "[01:30.20-01:32.00] [SOUND FX] A sharp, stunned gasp.",
+      "[01:30.80-01:35.00] [ACTION] The Duchess's mouth hangs open in pure disbelief as she stares fixedly at Juliana's hand.",
+      "[01:36.00-01:39.80] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER) (Breathless, Shaken): \"Your hand... Let me see your hand.\"",
+      "[01:40.50-01:45.00] LADY JULIANA ASHCROFT (Confused, Alarmed): \"Your Grace? What is wrong? You look as though you've seen a ghost.\"",
+      "[01:46.00-01:49.00] [ACTION] The Duchess reaches outward with trembling fingers, grasping frantically for Juliana.",
+      "[01:48.80-01:50.00] [SOUND FX] A sudden sharp rustle of fabric as her fingers snap tight.",
+      "[01:49.20-01:50.60] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER) (Stern, Desperate): \"Do not move!\"",
+      "[01:51.00-01:55.50] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER) (Intense, Demanding): \"Where... where... Where did you get this ring? Speak to me!\""
+    ]
+  },
+  {
+    "promo_id": "EP27-CONT",
+    "rank": 24,
+    "title": "Ep 27: Wedding Betrayal at the Altar",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 37.6,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 27,
+        "start_sec": 0.0,
+        "end_sec": 37.6,
+        "start_fmt": "00:00.00",
+        "end_fmt": "00:37.60",
+        "duration_sec": 37.6,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER): \"This ring...\""
+      }
+    ],
+    "opening_hook_3s": "[00:00.00-00:03.00] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER): \"This ring...\"",
+    "ending_cliffhanger": "[00:33.60-00:37.60] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER): \"My lost son wore that ring!\"",
+    "why_it_works_one_liner": "Opens immediately on a wedding betrayal at the altar shock at 00:00.00 and cuts on an unresolved power shift at 00:37.60 (37.6s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 91.0,
+      "cliffhanger_cut": 88.3,
+      "standalone_clarity": 80.0,
+      "pacing_density": 70.5,
+      "composite_score": 84.4
+    },
+    "transcript_preview": [
+      "[00:01.30-00:03.20] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER) (Shaken, Breathless): \"This ring...\"",
+      "[00:03.40-00:05.80] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER) (Urgent, Demanding): \"Look at me, girl. Who gave this to you?\"",
+      "[00:06.40-00:09.30] LADY JULIANA ASHCROFT (Hesitant, Sincere): \"My husband. He gave it to me when we wed.\"",
+      "[00:09.70-00:12.80] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER) (Incredulous, Intense): \"He is no commoner. What does he do?\"",
+      "[00:13.40-00:16.40] LADY JULIANA ASHCROFT (Earnest, Defending): \"He is a soldier. A veteran from the Peninsula.\"",
+      "[00:17.20-00:21.20] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER) (Trembling, Revelatory): \"That is no ordinary band. It bears the Ashbourne crest.\"",
+      "[00:21.80-00:25.80] LADY JULIANA ASHCROFT (Confused, Gentle): \"No. He lives in a barn. He has nothing but his word.\"",
+      "[00:26.60-00:31.40] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER) (Emotionally Strained, Weeping): \"My lost son wore that exact ring. He went to war...\""
+    ]
+  },
+  {
+    "promo_id": "EP28-CONT",
+    "rank": 10,
+    "title": "Ep 28: Rigged Witchcraft Trial & Poison Conspiracy",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 29.5,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 28,
+        "start_sec": 12.7,
+        "end_sec": 42.2,
+        "start_fmt": "00:12.70",
+        "end_fmt": "00:42.20",
+        "duration_sec": 29.5,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "LADY CATHERINE (USURPER BRIDE): \"She looks exactly like a poisoner.\""
+      }
+    ],
+    "opening_hook_3s": "[00:12.70-00:15.70] LADY CATHERINE (USURPER BRIDE): \"She looks exactly like a poisoner.\"",
+    "ending_cliffhanger": "[00:38.20-00:42.20] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER): \"And you... you knew!\"",
+    "why_it_works_one_liner": "Opens immediately on a rigged witchcraft trial & poison conspiracy shock at 00:12.70 and cuts on an unresolved power shift at 00:42.20 (29.5s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 95.9,
+      "standalone_clarity": 77.0,
+      "pacing_density": 90.2,
+      "composite_score": 91.2
+    },
+    "transcript_preview": [
+      "[00:12.70-00:15.00] LADY CATHERINE (USURPER BRIDE) (Venomous): \"She looks exactly like a poisoner.\"",
+      "[00:15.30-00:18.40] LADY JULIANA ASHCROFT (Furious, Defiant): \"I did not poison her! Look at her eyes, the fever has broken!\"",
+      "[00:18.90-00:20.30] LORD RUPERT ASHBOURNE (USURPER COUSIN) (Sardonic, Chilling): \"A clever story, girl.\"",
+      "[00:20.40-00:22.70] LORD RUPERT ASHBOURNE (USURPER COUSIN) (Threatening): \"But the guards know how to extract the truth.\"",
+      "[00:24.80-00:26.50] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER) (Weak, Straining): \"Rupert...\"",
+      "[00:26.70-00:28.20] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER) (Commanding): \"Stop this!\"",
+      "[00:28.80-00:30.30] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER) (Desperate, Firm): \"She is innocent.\"",
+      "[00:30.80-00:32.40] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER) (Adamant): \"She saved me!\""
+    ]
+  },
+  {
+    "promo_id": "EP29-CONT",
+    "rank": 28,
+    "title": "Ep 29: Wedding Betrayal at the Altar",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 48.6,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 29,
+        "start_sec": 56.7,
+        "end_sec": 105.3,
+        "start_fmt": "00:56.70",
+        "end_fmt": "01:45.30",
+        "duration_sec": 48.6,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "LADY JULIANA ASHCROFT: \"You are doing this because I saved the Duchess!\""
+      }
+    ],
+    "opening_hook_3s": "[00:56.70-00:59.70] LADY JULIANA ASHCROFT: \"You are doing this because I saved the Duchess!\"",
+    "ending_cliffhanger": "[01:41.30-01:45.30] LADY JULIANA ASHCROFT: \"I saved the Duchess!\"",
+    "why_it_works_one_liner": "Opens immediately on a wedding betrayal at the altar shock at 00:56.70 and cuts on an unresolved power shift at 01:45.30 (48.6s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 77.4,
+      "cliffhanger_cut": 93.4,
+      "standalone_clarity": 80.0,
+      "pacing_density": 77.5,
+      "composite_score": 82.9
+    },
+    "transcript_preview": [
+      "[00:56.70-00:59.00] LADY JULIANA ASHCROFT (Enraged, Defiant): \"You are doing this because I saved the Duchess!\"",
+      "[00:59.30-01:03.40] LADY CATHERINE (USURPER BRIDE) (Scornful, Arrogant): \"I am doing this because women like you forget their place.\"",
+      "[01:04.50-01:06.50] LADY CATHERINE (USURPER BRIDE) (Cold, Venomous): \"You were cast out once.\"",
+      "[01:07.20-01:09.10] LADY CATHERINE (USURPER BRIDE) (Menacing): \"You should have stayed forgotten.\"",
+      "[01:09.80-01:11.40] LADY JULIANA ASHCROFT (Steely, Resolute): \"My husband will find me.\"",
+      "[01:12.10-01:14.30] LADY CATHERINE (USURPER BRIDE) (Scoffing, Amused): \"Your scarred soldier?\"",
+      "[01:14.70-01:18.10] LADY CATHERINE (USURPER BRIDE) (Derisive, Biting): \"What exactly do you think a penniless veteran can do against Ashbrook?\"",
+      "[01:18.70-01:20.60] GUARD (Gruff, Dismissive): \"Move along, girl.\""
+    ]
+  },
+  {
+    "promo_id": "EP30-CONT",
+    "rank": 38,
+    "title": "Ep 30: Framed Husband & Sadistic Ultimatum",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 26.8,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 30,
+        "start_sec": 75.0,
+        "end_sec": 101.8,
+        "start_fmt": "01:15.00",
+        "end_fmt": "01:41.80",
+        "duration_sec": 26.8,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "LORD STERLING (CO-CONSPIRATOR): \"Give those facts to a magistrate in the right order, and she becomes a poison"
+      }
+    ],
+    "opening_hook_3s": "[01:15.00-01:18.00] LORD STERLING (CO-CONSPIRATOR): \"Give those facts to a magistrate in the right order, and she becomes a poisoner.\"",
+    "ending_cliffhanger": "[01:37.80-01:41.80] LORD STERLING (CO-CONSPIRATOR): \"Do not hide the evidence, manufacture it. Drag her before the magistrate tomorrow, frame the trial, buy the jury, and let the State hang her.\"",
+    "why_it_works_one_liner": "Opens immediately on a framed husband & sadistic ultimatum shock at 01:15.00 and cuts on an unresolved power shift at 01:41.80 (26.8s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 64.8,
+      "standalone_clarity": 78.0,
+      "pacing_density": 75.0,
+      "composite_score": 79.9
+    },
+    "transcript_preview": [
+      "[01:15.00-01:22.50] LORD STERLING (CO-CONSPIRATOR) (Cold, Calculating): \"Give those facts to a magistrate in the right order, and she becomes a poisoner.\"",
+      "[01:23.20-01:25.40] LADY CATHERINE (USURPER BRIDE) (Curious, Conniving): \"And if she claims she is a healer?\"",
+      "[01:25.80-01:27.80] LORD STERLING (CO-CONSPIRATOR) (Sinister): \"Then call it witchcraft.\"",
+      "[01:29.00-01:31.30] LORD RUPERT ASHBOURNE (USURPER COUSIN) (Stunned): \"Witchcraft is a capital charge.\"",
+      "[01:32.00-01:33.40] LORD STERLING (CO-CONSPIRATOR) (Unflinching): \"Precisely.\"",
+      "[01:34.60-01:41.80] LORD STERLING (CO-CONSPIRATOR) (Authoritative, Command): \"Do not hide the evidence, manufacture it. Drag her before the magistrate tomorrow, frame the trial, buy the jury, and let the State hang her.\""
+    ]
+  },
+  {
+    "promo_id": "EP31-CONT",
+    "rank": 7,
+    "title": "Ep 31: Framed Husband & Sadistic Ultimatum",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 29.0,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 31,
+        "start_sec": 131.0,
+        "end_sec": 160.0,
+        "start_fmt": "02:11.00",
+        "end_fmt": "02:40.00",
+        "duration_sec": 29.0,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "LADY CATHERINE (USURPER BRIDE): \"Enough!\""
+      }
+    ],
+    "opening_hook_3s": "[02:11.00-02:14.00] LADY CATHERINE (USURPER BRIDE): \"Enough!\"",
+    "ending_cliffhanger": "[02:36.00-02:40.00] Juliana recoils back against the hard dungeon wall, gasping for breath in raw terror as the searing iron stops inches from her eyes.",
+    "why_it_works_one_liner": "Opens immediately on a framed husband & sadistic ultimatum shock at 02:11.00 and cuts on an unresolved power shift at 02:40.00 (29.0s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 99.0,
+      "standalone_clarity": 78.0,
+      "pacing_density": 88.2,
+      "composite_score": 92.1
+    },
+    "transcript_preview": [
+      "[02:11.00-02:12.80] LADY CATHERINE (USURPER BRIDE) (Enraged Scream): \"Enough!\"",
+      "[02:13.20-02:14.50] [SOUND FX] Hiss of scorched parchment and curling white smoke rising as paper blackens under extreme heat.",
+      "[02:14.50-02:18.00] LADY CATHERINE (USURPER BRIDE) (Hateful, Malicious): \"This pathetic book is the only thing you still have from your mother.\"",
+      "[02:18.00-02:20.50] [ACTION] Tears spill rapidly down Juliana's cheeks as she reaches forward in vain, restrained by her heavy iron chains.",
+      "[02:18.40-02:20.40] LADY JULIANA ASHCROFT (Desperate, Weeping): \"[gasping] Give it back!\"",
+      "[02:20.70-02:23.80] LADY CATHERINE (USURPER BRIDE) (Gloating, Sadistic): \"There. Finally. Something still hurts you.\"",
+      "[02:24.00-02:25.50] LADY JULIANA ASHCROFT (Screaming, Agonized): \"No!\"",
+      "[02:25.60-02:31.20] LADY CATHERINE (USURPER BRIDE) (Vicious, Final): \"One flame, and your mother's life's work becomes ash.\""
+    ]
+  },
+  {
+    "promo_id": "EP32-CONT",
+    "rank": 4,
+    "title": "Ep 32: Wedding Betrayal at the Altar",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 41.88,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 32,
+        "start_sec": 112.5,
+        "end_sec": 154.38,
+        "start_fmt": "01:52.50",
+        "end_fmt": "02:34.38",
+        "duration_sec": 41.88,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "LADY JULIANA ASHCROFT: \"Nothing. Until you have nothing left beneath it.\""
+      }
+    ],
+    "opening_hook_3s": "[01:52.50-01:55.50] LADY JULIANA ASHCROFT: \"Nothing. Until you have nothing left beneath it.\"",
+    "ending_cliffhanger": "[02:30.38-02:34.38] Juliana gasps, freezing as the glowing tip of the iron thrusts forward, stopping mere millimeters from her right eye.",
+    "why_it_works_one_liner": "Opens immediately on a wedding betrayal at the altar shock at 01:52.50 and cuts on an unresolved power shift at 02:34.38 (41.9s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 99.0,
+      "standalone_clarity": 80.0,
+      "pacing_density": 91.0,
+      "composite_score": 93.1
+    },
+    "transcript_preview": [
+      "[01:49.50-01:52.80] LADY JULIANA ASHCROFT (Gentle, Penetrating): \"Nothing. Until you have nothing left beneath it.\"",
+      "[01:52.80-01:56.00] LADY JULIANA ASHCROFT (Unrelenting): \"You have spent your whole life collecting things that make people bow...\"",
+      "[01:56.90-01:59.50] LADY JULIANA ASHCROFT (Piercing): \"...but you have never learned how to make anyone love you.\"",
+      "[01:59.60-02:01.80] LADY CATHERINE (USURPER BRIDE) (Hysterical, Screaming): \"Silence! Silence!\"",
+      "[02:01.80-02:02.80] LADY CATHERINE (USURPER BRIDE) (Shrieking): \"Why?!\"",
+      "[02:03.00-02:05.20] LADY JULIANA ASHCROFT (Forceful): \"Because I am right!\"",
+      "[02:05.40-02:08.80] LADY JULIANA ASHCROFT (Scathing, Direct): \"You want everyone to believe you are powerful.\"",
+      "[02:09.00-02:11.60] LADY JULIANA ASHCROFT (Continuing): \"You want everyone to fear you.\""
+    ]
+  },
+  {
+    "promo_id": "EP33-CONT",
+    "rank": 48,
+    "title": "Ep 33: Rigged Witchcraft Trial & Poison Conspiracy",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 58.3,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 33,
+        "start_sec": 73.2,
+        "end_sec": 131.5,
+        "start_fmt": "01:13.20",
+        "end_fmt": "02:11.50",
+        "duration_sec": 58.3,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "LORD STERLING (CO-CONSPIRATOR): \"Then help him.\""
+      }
+    ],
+    "opening_hook_3s": "[01:13.20-01:16.20] LORD STERLING (CO-CONSPIRATOR): \"Then help him.\"",
+    "ending_cliffhanger": "[02:07.50-02:11.50] MAID: \"No! She saved Toby! She made him breathe again!\"",
+    "why_it_works_one_liner": "Opens immediately on a rigged witchcraft trial & poison conspiracy shock at 01:13.20 and cuts on an unresolved power shift at 02:11.50 (58.3s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 56.4,
+      "cliffhanger_cut": 80.9,
+      "standalone_clarity": 77.0,
+      "pacing_density": 58.5,
+      "composite_score": 69.2
+    },
+    "transcript_preview": [
+      "[01:13.20-01:15.00] LORD STERLING (CO-CONSPIRATOR) (Cold, Unwavering): \"Then help him.\"",
+      "[01:16.80-01:19.00] MAID (Crying, Shattered): \"What do you want me to say?!\"",
+      "[01:19.60-01:20.50] LORD STERLING (CO-CONSPIRATOR) (Deceptive): \"The truth.\"",
+      "[01:21.00-01:24.50] LORD STERLING (CO-CONSPIRATOR) (Leading, Deliberate): \"She drew something around the bed, did she not?\"",
+      "[01:25.50-01:28.80] MAID (Trembling, Reluctant): \"She... placed dried herbs around him.\"",
+      "[01:29.00-01:30.50] LORD STERLING (CO-CONSPIRATOR) (Hypnotic, Coercive): \"Around him.\"",
+      "[01:31.00-01:32.50] LORD STERLING (CO-CONSPIRATOR) (Coercive): \"Like a circle?\"",
+      "[01:33.00-01:34.50] MAID (Faint, Defeated): \"Yes.\""
+    ]
+  },
+  {
+    "promo_id": "EP34-CONT",
+    "rank": 33,
+    "title": "Ep 34: Wedding Betrayal at the Altar",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 40.0,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 34,
+        "start_sec": 1.2,
+        "end_sec": 41.2,
+        "start_fmt": "00:01.20",
+        "end_fmt": "00:41.20",
+        "duration_sec": 40.0,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "JUDGE: \"Lady Juliana Ashcroft, you are accused of witchcraft, unlawful healing, and poisoning.\""
+      }
+    ],
+    "opening_hook_3s": "[00:01.20-00:04.20] JUDGE: \"Lady Juliana Ashcroft, you are accused of witchcraft, unlawful healing, and poisoning.\"",
+    "ending_cliffhanger": "[00:37.20-00:41.20] Prudence the young maid stands trembling in the center of the courtroom floor, her head bowed in deep shame, clutching the sides of her apron.",
+    "why_it_works_one_liner": "Opens immediately on a wedding betrayal at the altar shock at 00:01.20 and cuts on an unresolved power shift at 00:41.20 (40.0s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 73.0,
+      "cliffhanger_cut": 96.1,
+      "standalone_clarity": 80.0,
+      "pacing_density": 69.3,
+      "composite_score": 81.1
+    },
+    "transcript_preview": [
+      "[00:01.20-00:07.80] JUDGE (Booming, Authoritative): \"Lady Juliana Ashcroft, you are accused of witchcraft, unlawful healing, and poisoning.\"",
+      "[00:09.00-00:11.20] [SOUND FX] [A firm, hollow tap of a finger striking the parchment]",
+      "[00:09.10-00:12.60] JUDGE (Inquisitive, Severe): \"Do you deny possessing this book?\"",
+      "[00:13.80-00:14.80] LADY JULIANA ASHCROFT (Calm, Unflinching): \"No.\"",
+      "[00:15.60-00:19.20] JUDGE (Stern, Accusatory): \"Do you deny using its remedies?\"",
+      "[00:20.80-00:21.80] LADY JULIANA ASHCROFT (Firm): \"No.\"",
+      "[00:27.50-00:31.20] JUDGE (Hard, Pressing): \"Then you admit to practicing forbidden arts.\"",
+      "[00:33.20-00:35.10] LADY JULIANA ASHCROFT (Proud, Dignified): \"I admit to healing the sick.\""
+    ]
+  },
+  {
+    "promo_id": "EP35-CONT",
+    "rank": 45,
+    "title": "Ep 35: Barehanded Sacrifice in Razor Briars",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 46.5,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 35,
+        "start_sec": 111.0,
+        "end_sec": 157.5,
+        "start_fmt": "01:51.00",
+        "end_fmt": "02:37.50",
+        "duration_sec": 46.5,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER): \"How did you escape?\""
+      }
+    ],
+    "opening_hook_3s": "[01:51.00-01:54.00] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER): \"How did you escape?\"",
+    "ending_cliffhanger": "[02:33.50-02:37.50] A sudden, ominous orchestral crescendo swells dramatically into silence.",
+    "why_it_works_one_liner": "Opens immediately on a barehanded sacrifice in razor briars shock at 01:51.00 and cuts on an unresolved power shift at 02:37.50 (46.5s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 71.0,
+      "cliffhanger_cut": 78.6,
+      "standalone_clarity": 79.0,
+      "pacing_density": 59.9,
+      "composite_score": 73.6
+    },
+    "transcript_preview": [
+      "[01:51.00-01:53.00] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER) (Pleading, Astonished): \"How did you escape?\"",
+      "[01:54.00-01:58.00] DUKE ALEXANDER ASHBOURNE (Somber, Low): \"I crawled away from the battlefield, half dead, alone.\"",
+      "[01:58.20-02:02.00] DUKE ALEXANDER ASHBOURNE (Continuing): \"I survived because the men who came looking for me believed I was already dead.\"",
+      "[02:02.00-02:05.50] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER) (Aghast, Stunned): \"Then why did they never tell us?\"",
+      "[02:06.00-02:09.50] DUKE ALEXANDER ASHBOURNE (Ominous, Deliberate): \"Because someone wanted you to believe I was dead.\"",
+      "[02:09.50-02:10.50] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER) (Breathless): \"Who?\"",
+      "[02:10.50-02:14.00] [ACTION] Alexander turns away toward the frosted window, staring out into the dark raging blizzard outside.",
+      "[02:11.00-02:14.00] DUKE ALEXANDER ASHBOURNE (Brooding): \"I spent three years trying to find out.\""
+    ]
+  },
+  {
+    "promo_id": "EP36-CONT",
+    "rank": 27,
+    "title": "Ep 36: Wedding Betrayal at the Altar",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 29.15,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 36,
+        "start_sec": 171.6,
+        "end_sec": 200.75,
+        "start_fmt": "02:51.60",
+        "end_fmt": "03:20.75",
+        "duration_sec": 29.15,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "DUKE ALEXANDER ASHBOURNE: \"They stole my home!\""
+      }
+    ],
+    "opening_hook_3s": "[02:51.60-02:54.60] DUKE ALEXANDER ASHBOURNE: \"They stole my home!\"",
+    "ending_cliffhanger": "[03:16.75-03:20.75] A heavy, ominous orchestral swell builds to a thunderous cliffhanger sting and reverberates into silence.",
+    "why_it_works_one_liner": "Opens immediately on a wedding betrayal at the altar shock at 02:51.60 and cuts on an unresolved power shift at 03:20.75 (29.1s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 75.9,
+      "cliffhanger_cut": 99.0,
+      "standalone_clarity": 80.0,
+      "pacing_density": 71.3,
+      "composite_score": 83.2
+    },
+    "transcript_preview": [
+      "[02:51.60-02:53.60] DUKE ALEXANDER ASHBOURNE (Roaring with Conviction): \"They stole my home!\"",
+      "[02:54.20-02:56.80] DUKE ALEXANDER ASHBOURNE (Venomous): \"And now they have taken Juliana!\"",
+      "[02:57.00-02:59.50] [ACTION] Close-up of Alexander's gloved hand clenching into a tight, leather-creaking fist.",
+      "[02:57.50-02:59.20] [SOUND FX] The sharp, taut creak of leather straining under monstrous grip strength.",
+      "[03:00.00-03:04.00] [ACTION] Alexander stands framed in the doorway, staring out into the vast, snow-covered pine forest under the cold moonlight.",
+      "[03:02.00-03:03.50] DUKE ALEXANDER ASHBOURNE (Calm, Chilling): \"Two days.\"",
+      "[03:04.50-03:07.80] DUKE ALEXANDER ASHBOURNE (Vow of Vengeance): \"Then they have two days to celebrate.\"",
+      "[03:09.50-03:12.20] DUKE ALEXANDER ASHBOURNE (Low, Menacing Promise): \"Because before that wedding begins...\""
+    ]
+  },
+  {
+    "promo_id": "EP37-CONT",
+    "rank": 9,
+    "title": "Ep 37: Wedding Betrayal at the Altar",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 52.47,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 37,
+        "start_sec": 104.0,
+        "end_sec": 156.47,
+        "start_fmt": "01:44.00",
+        "end_fmt": "02:36.47",
+        "duration_sec": 52.47,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "LADY JULIANA ASHCROFT: \"I will not!\""
+      }
+    ],
+    "opening_hook_3s": "[01:44.00-01:47.00] LADY JULIANA ASHCROFT: \"I will not!\"",
+    "ending_cliffhanger": "[02:32.47-02:36.47] A deep, ominous cello rumble builds alongside the crackle of the fireplace into an unresolved, tension-filled cliffhanger sting before fading out.",
+    "why_it_works_one_liner": "Opens immediately on a wedding betrayal at the altar shock at 01:44.00 and cuts on an unresolved power shift at 02:36.47 (52.5s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 99.0,
+      "standalone_clarity": 80.0,
+      "pacing_density": 81.1,
+      "composite_score": 91.6
+    },
+    "transcript_preview": [
+      "[01:44.00-01:47.00] [SOUND FX] The harsh scrape and clatter of heavy iron chains dragging across wet stone.",
+      "[01:45.50-01:47.80] LADY JULIANA ASHCROFT (Straining, Defiant Gasps): \"I will not!\"",
+      "[01:49.00-01:52.50] LADY JULIANA ASHCROFT (Passionate Defiance): \"They can take my name. They can take my home.\"",
+      "[01:53.60-01:56.20] LADY JULIANA ASHCROFT (Indomitable Spirit): \"They cannot take who I am!\"",
+      "[01:57.20-01:59.80] NOBLEMAN (Quietly Skeptical): \"Do you think she'll actually be executed?\"",
+      "[02:00.50-02:04.20] LADY CLARISSA (SISTER) (Dismissive, Certain): \"After what she has been accused of? Of course.\"",
+      "[02:04.80-02:06.50] NOBLEMAN (Musing): \"She was always stubborn.\"",
+      "[02:07.50-02:12.00] LADY CLARISSA (SISTER) (Bitter, Cold): \"That was her greatest mistake. She could have accepted what happened. She could have disappeared quietly.\""
+    ]
+  },
+  {
+    "promo_id": "EP38-CONT",
+    "rank": 5,
+    "title": "Ep 38: Wedding Betrayal at the Altar",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 20.0,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 38,
+        "start_sec": 67.0,
+        "end_sec": 87.0,
+        "start_fmt": "01:07.00",
+        "end_fmt": "01:27.00",
+        "duration_sec": 20.0,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "LADY JULIANA ASHCROFT: \"Bells.\""
+      }
+    ],
+    "opening_hook_3s": "[01:07.00-01:10.00] LADY JULIANA ASHCROFT: \"Bells.\"",
+    "ending_cliffhanger": "[01:23.00-01:27.00] A sharp, high-tension dramatic swell strikes and echoes out into silence alongside the fading toll of the distant church bells.",
+    "why_it_works_one_liner": "Opens immediately on a wedding betrayal at the altar shock at 01:07.00 and cuts on an unresolved power shift at 01:27.00 (20.0s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 99.0,
+      "standalone_clarity": 80.0,
+      "pacing_density": 87.2,
+      "composite_score": 92.5
+    },
+    "transcript_preview": [
+      "[01:04.80-01:27.00] [SOUND FX] Solemn, resonant church bells begin tolling rhythmically from the cathedral above, echoing deep into the stone dungeon.",
+      "[01:09.00-01:10.30] LADY JULIANA ASHCROFT (Startled Whisper): \"Bells.\"",
+      "[01:11.00-01:13.50] [ACTION] Juliana rushes toward the front of the cell, clutching the iron bars with both hands.",
+      "[01:12.80-01:14.20] LADY JULIANA ASHCROFT (Realizing): \"The wedding.\"",
+      "[01:14.50-01:15.80] LADY JULIANA ASHCROFT (Grim): \"It's beginning.\"",
+      "[01:16.00-01:18.50] LADY JULIANA ASHCROFT (Somber, Steely): \"Then I suppose I'm next.\"",
+      "[01:21.00-01:24.00] [ACTION] Juliana grips the bars tightly, her lips curving into a warm, defiant smile as she whispers her husband's name.",
+      "[01:22.50-01:24.00] LADY JULIANA ASHCROFT (Hopeful, Tender): \"Alexander...\""
+    ]
+  },
+  {
+    "promo_id": "EP39-CONT",
+    "rank": 44,
+    "title": "Ep 39: Midnight Arson & Heroic Rescue",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 31.0,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 39,
+        "start_sec": 29.8,
+        "end_sec": 60.8,
+        "start_fmt": "00:29.80",
+        "end_fmt": "01:00.80",
+        "duration_sec": 31.0,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "ROYAL SENTRY: \"Stop!\""
+      }
+    ],
+    "opening_hook_3s": "[00:29.80-00:32.80] ROYAL SENTRY: \"Stop!\"",
+    "ending_cliffhanger": "[00:56.80-01:00.80] Rhythmic, metallic snips of heavy shears cutting through thick hair.",
+    "why_it_works_one_liner": "Opens immediately on a midnight arson & heroic rescue shock at 00:29.80 and cuts on an unresolved power shift at 01:00.80 (31.0s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 48.3,
+      "standalone_clarity": 78.0,
+      "pacing_density": 67.8,
+      "composite_score": 73.9
+    },
+    "transcript_preview": [
+      "[00:29.80-00:30.60] ROYAL SENTRY (Commanding): \"Stop!\"",
+      "[00:30.80-00:32.40] CART DRIVER (Meek, Deferential): \"Firewood for the kitchens, sir.\"",
+      "[00:32.80-00:36.50] [ACTION] The driver leaps off the cart, striking the sentry across the chest, seizing his neck, and tackling him violently against the wooden carriage wheel.",
+      "[00:33.10-00:36.00] [SOUND FX] Dull physical thuds and scuffling boots on wet stone as the guard groans in surprise.",
+      "[00:37.00-00:42.50] [ACTION] The loyalist locks the sentry into a tight sleeper hold, clamping a hand firmly over his mouth until his eyes roll back and he goes limp.",
+      "[00:41.00-00:42.20] LOYALIST FIGHTER (Whispering, Cold): \"Sleep.\"",
+      "[00:47.00-00:48.10] CART DRIVER (Relieved, Firm): \"The road is clear.\"",
+      "[00:48.20-00:49.20] LOYALIST FIGHTER (Resolute): \"Tell the Duke.\""
+    ]
+  },
+  {
+    "promo_id": "EP40-CONT",
+    "rank": 42,
+    "title": "Ep 40: Wedding Betrayal at the Altar",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 26.0,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 40,
+        "start_sec": 19.2,
+        "end_sec": 45.2,
+        "start_fmt": "00:19.20",
+        "end_fmt": "00:45.20",
+        "duration_sec": 26.0,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "GERALD HARRINGTON (EX-FIANCE): \"And soon, we'll be connected to the Duchess of Ashburgh.\""
+      }
+    ],
+    "opening_hook_3s": "[00:19.20-00:22.20] GERALD HARRINGTON (EX-FIANCE): \"And soon, we'll be connected to the Duchess of Ashburgh.\"",
+    "ending_cliffhanger": "[00:41.20-00:45.20] GERALD HARRINGTON (EX-FIANCE): \"Of the wedding?\"",
+    "why_it_works_one_liner": "Opens immediately on a wedding betrayal at the altar shock at 00:19.20 and cuts on an unresolved power shift at 00:45.20 (26.0s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 83.9,
+      "cliffhanger_cut": 69.7,
+      "standalone_clarity": 80.0,
+      "pacing_density": 66.8,
+      "composite_score": 76.1
+    },
+    "transcript_preview": [
+      "[00:19.20-00:23.00] GERALD HARRINGTON (EX-FIANCE) (Ambitious, Proud): \"And soon, we'll be connected to the Duchess of Ashburgh.\"",
+      "[00:23.20-00:26.00] LADY CLARISSA (SISTER) (Malicious, Taunting): \"Imagine Juliana seeing this.\"",
+      "[00:26.20-00:28.90] GERALD HARRINGTON (EX-FIANCE) (Sinister, Dismissive): \"She won't be seeing anything for long.\"",
+      "[00:29.00-00:29.90] LADY CLARISSA (SISTER) (Pleased, Cold): \"Good.\"",
+      "[00:30.10-00:33.20] GERALD HARRINGTON (EX-FIANCE) (Chuckling, Scornful): \"This place has always been unlucky for Juliana.\"",
+      "[00:32.80-00:34.20] [ACTION] Lady Harrington lets out a soft, amused laugh as they reach the heavy wooden cathedral doors.",
+      "[00:34.40-00:39.00] LADY CLARISSA (SISTER) (Vindictive, Pious): \"She stands beneath God's watch and still gets exactly what she deserves.\"",
+      "[00:40.50-00:42.20] [ACTION] Lord and Lady Harrington slide gracefully into the polished wooden pew, smoothing their garments."
+    ]
+  },
+  {
+    "promo_id": "EP41-CONT",
+    "rank": 18,
+    "title": "Ep 41: Wedding Betrayal at the Altar",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 38.09,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 41,
+        "start_sec": 58.0,
+        "end_sec": 96.09,
+        "start_fmt": "00:58.00",
+        "end_fmt": "01:36.09",
+        "duration_sec": 38.09,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "LADY JULIANA ASHCROFT: \"You needed an entire chapel to feel powerful over one chained woman?\""
+      }
+    ],
+    "opening_hook_3s": "[00:58.00-01:01.00] LADY JULIANA ASHCROFT: \"You needed an entire chapel to feel powerful over one chained woman?\"",
+    "ending_cliffhanger": "[01:32.09-01:36.09] Silhouetted armed figures emerge through the smoke and rubble of the breached doorway. Juliana slowly turns her head, glancing back toward the light.",
+    "why_it_works_one_liner": "Opens immediately on a wedding betrayal at the altar shock at 00:58.00 and cuts on an unresolved power shift at 01:36.09 (38.1s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 98.4,
+      "cliffhanger_cut": 91.3,
+      "standalone_clarity": 80.0,
+      "pacing_density": 76.3,
+      "composite_score": 88.3
+    },
+    "transcript_preview": [
+      "[00:58.00-01:00.50] LADY JULIANA ASHCROFT (Defiant, Unbowed): \"You needed an entire chapel to feel powerful over one chained woman?\"",
+      "[01:01.00-01:03.50] LADY CATHERINE (USURPER BRIDE) (Murmured, Cold): \"Still arrogant. Still standing.\"",
+      "[01:04.50-01:05.40] LADY CATHERINE (USURPER BRIDE) (Dismissive): \"Come.\"",
+      "[01:10.50-01:14.80] LADY CATHERINE (USURPER BRIDE) (Intimate, Ambitious): \"Soon, there will be nothing left between us and the Ashburgh title.\"",
+      "[01:15.80-01:17.00] LORD RUPERT ASHBOURNE (USURPER COUSIN) (Quietly Triumphant): \"Nothing.\"",
+      "[01:18.00-01:19.30] PRIEST (Solemn, Polite): \"Shall we?\"",
+      "[01:21.00-01:25.50] [SOUND FX] Ear-splitting detonation, shattering stone, wood splintering violently into kindling, followed by terrified screams of the congregation.",
+      "[01:21.80-01:24.00] [ACTION] A violent fireball bursts inward as the entire cathedral entrance explodes, blasting the massive double doors and masonry into flying shrapnel and billowing smoke."
+    ]
+  },
+  {
+    "promo_id": "EP42-CONT",
+    "rank": 31,
+    "title": "Ep 42: Presumed-Dead Duke Crashes Wedding in Full Regalia",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 50.4,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 42,
+        "start_sec": 22.0,
+        "end_sec": 72.4,
+        "start_fmt": "00:22.00",
+        "end_fmt": "01:12.40",
+        "duration_sec": 50.4,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "ROYAL GUARD: \"We will not.\""
+      }
+    ],
+    "opening_hook_3s": "[00:22.00-00:25.00] ROYAL GUARD: \"We will not.\"",
+    "ending_cliffhanger": "[01:08.40-01:12.40] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER): \"Let everyone hear me! This is my son... Alexander Ashburn. The rightful Duke of Ashburn!\"",
+    "why_it_works_one_liner": "Opens immediately on a presumed-dead duke crashes wedding in full regalia shock at 00:22.00 and cuts on an unresolved power shift at 01:12.40 (50.4s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 76.9,
+      "standalone_clarity": 81.0,
+      "pacing_density": 63.0,
+      "composite_score": 82.5
+    },
+    "transcript_preview": [
+      "[00:22.00-00:23.40] ROYAL GUARD (Stoic, Defiant): \"We will not.\"",
+      "[00:23.50-00:25.20] LORD RUPERT ASHBOURNE (USURPER COUSIN) (Screaming, Outraged): \"I said arrest him!\"",
+      "[00:25.50-00:26.50] LORD RUPERT ASHBOURNE (USURPER COUSIN) (Desperate, Unhinged): \"Why?!\"",
+      "[00:26.70-00:28.80] ROYAL GUARD (Firm, Reverent): \"Because we know who he is.\"",
+      "[00:29.00-00:30.30] LADY CATHERINE (USURPER BRIDE) (Trembling, Apprehensive): \"Rupert...\"",
+      "[00:30.50-00:33.80] LORD RUPERT ASHBOURNE (USURPER COUSIN) (Denial, Shaken): \"You cannot be him. Alexander died!\"",
+      "[00:34.00-00:39.80] DUKE ALEXANDER ASHBOURNE (Cold, Commanding): \"And yet, here I stand. That is the lie you built your life upon.\"",
+      "[00:40.20-00:42.50] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER) (Choked with Tears): \"Alexander...\""
+    ]
+  },
+  {
+    "promo_id": "EP43-CONT",
+    "rank": 11,
+    "title": "Ep 43: Wedding Betrayal at the Altar",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 25.8,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 43,
+        "start_sec": 0.0,
+        "end_sec": 25.8,
+        "start_fmt": "00:00.00",
+        "end_fmt": "00:25.80",
+        "duration_sec": 25.8,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "LORD RUPERT ASHBOURNE (USURPER COUSIN): \"You're lying!\""
+      }
+    ],
+    "opening_hook_3s": "[00:00.00-00:03.00] LORD RUPERT ASHBOURNE (USURPER COUSIN): \"You're lying!\"",
+    "ending_cliffhanger": "[00:21.80-00:25.80] LORD RUPERT ASHBOURNE (USURPER COUSIN): \"You have all been deceived!\"",
+    "why_it_works_one_liner": "Opens immediately on a wedding betrayal at the altar shock at 00:00.00 and cuts on an unresolved power shift at 00:25.80 (25.8s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 94.5,
+      "cliffhanger_cut": 93.6,
+      "standalone_clarity": 80.0,
+      "pacing_density": 98.0,
+      "composite_score": 91.1
+    },
+    "transcript_preview": [
+      "[00:00.60-00:02.40] LORD RUPERT ASHBOURNE (USURPER COUSIN) (Hysterical, Panicked): \"You're lying!\"",
+      "[00:02.40-00:03.90] [ACTION] Rupert lunges forward, his facial features contorting in venomous desperation.",
+      "[00:03.90-00:07.40] LORD RUPERT ASHBOURNE (USURPER COUSIN) (Shrieking, Frantic): \"This man is an imposter! Arrest him!\"",
+      "[00:08.20-00:10.50] [ACTION] Alexander stands completely composed in his dark embroidered aristocratic coat, staring Rupert down with unyielding authority.",
+      "[00:10.50-00:13.20] LORD RUPERT ASHBOURNE (USURPER COUSIN) (Enraged, Screaming): \"I said arrest him!\"",
+      "[00:13.80-00:16.00] [ACTION] The Guard Captain brings his ceremonial sword upright to attention, his expression stern and resolute.",
+      "[00:14.20-00:15.80] ROYAL GUARD (Firm, Defiant): \"We will not.\"",
+      "[00:16.20-00:18.00] LORD RUPERT ASHBOURNE (USURPER COUSIN) (Outraged, Stunned): \"I am Lord Rupert Ashburn!\""
+    ]
+  },
+  {
+    "promo_id": "EP44-CONT",
+    "rank": 19,
+    "title": "Ep 44: Framed Husband & Sadistic Ultimatum",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 47.7,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 44,
+        "start_sec": 3.3,
+        "end_sec": 51.0,
+        "start_fmt": "00:03.30",
+        "end_fmt": "00:51.00",
+        "duration_sec": 47.7,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "POLICE CONSTABLE: \"Lord Henry Sterling, you are under arrest by order of the Crown.\""
+      }
+    ],
+    "opening_hook_3s": "[00:03.30-00:06.30] POLICE CONSTABLE: \"Lord Henry Sterling, you are under arrest by order of the Crown.\"",
+    "ending_cliffhanger": "[00:47.00-00:51.00] DUKE ALEXANDER ASHBOURNE: \"You were never my Duchess.\"",
+    "why_it_works_one_liner": "Opens immediately on a framed husband & sadistic ultimatum shock at 00:03.30 and cuts on an unresolved power shift at 00:51.00 (47.7s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 94.3,
+      "standalone_clarity": 78.0,
+      "pacing_density": 69.1,
+      "composite_score": 87.8
+    },
+    "transcript_preview": [
+      "[00:03.30-00:08.20] POLICE CONSTABLE (Authoritative, Stern): \"Lord Henry Sterling, you are under arrest by order of the Crown.\"",
+      "[00:09.10-00:11.20] LORD STERLING (CO-CONSPIRATOR) (Snarls, Outraged): \"You have no authority!\"",
+      "[00:11.40-00:13.20] POLICE CONSTABLE (Cold, Definite): \"I have more than enough.\"",
+      "[00:14.00-00:16.40] [ACTION] A royal redcoat guard firmly forces Rupert down into the stone dust.",
+      "[00:14.00-00:16.80] LORD RUPERT ASHBOURNE (USURPER COUSIN) (Frantic, Shouting): \"Get your hands off me! Catherine!\"",
+      "[00:17.40-00:19.30] LORD RUPERT ASHBOURNE (USURPER COUSIN) (Desperate, Screaming): \"Do something!\"",
+      "[00:21.80-00:24.40] [ACTION] Catherine's satin-gloved hand clenches tightly into a trembling fist against the folds of her ornate gown.",
+      "[00:25.20-00:28.00] LADY CATHERINE (USURPER BRIDE) (Shaken, Tearful): \"Alexander... I thought you had died.\""
+    ]
+  },
+  {
+    "promo_id": "EP45-CONT",
+    "rank": 13,
+    "title": "Ep 45: Wedding Betrayal at the Altar",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 59.6,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 45,
+        "start_sec": 2.8,
+        "end_sec": 62.4,
+        "start_fmt": "00:02.80",
+        "end_fmt": "01:02.40",
+        "duration_sec": 59.6,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "LADY JULIANA ASHCROFT: \"Alexander...\""
+      }
+    ],
+    "opening_hook_3s": "[00:02.80-00:05.80] LADY JULIANA ASHCROFT: \"Alexander...\"",
+    "ending_cliffhanger": "[00:58.40-01:02.40] DUKE ALEXANDER ASHBOURNE: \"You knew exactly what you were doing!\"",
+    "why_it_works_one_liner": "Opens immediately on a wedding betrayal at the altar shock at 00:02.80 and cuts on an unresolved power shift at 01:02.40 (59.6s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 97.7,
+      "standalone_clarity": 80.0,
+      "pacing_density": 78.5,
+      "composite_score": 90.8
+    },
+    "transcript_preview": [
+      "[00:03.20-00:04.80] LADY JULIANA ASHCROFT (Whispering, Tearful): \"Alexander...\"",
+      "[00:05.20-00:07.80] [ACTION] Alexander drops to one knee before Juliana, looking up at her with profound devotion.",
+      "[00:07.40-00:08.90] DUKE ALEXANDER ASHBOURNE (Gentle, Reassuring): \"Look at me.\"",
+      "[00:10.20-00:11.80] [SOUND FX] Heavy iron clanking as the shackles fall away.",
+      "[00:12.50-00:14.30] LADY JULIANA ASHCROFT (Breathless, Overcome): \"Your eyes...\"",
+      "[00:15.20-00:18.50] [ACTION] Juliana places her palm against Alexander's beard, feeling his scarred face as recognition dawns.",
+      "[00:17.10-00:18.70] LADY JULIANA ASHCROFT (Emotional, Realizing): \"It's you.\"",
+      "[00:19.40-00:21.50] DUKE ALEXANDER ASHBOURNE (Solemn, Loving): \"It was always me.\""
+    ]
+  },
+  {
+    "promo_id": "EP46-CONT",
+    "rank": 43,
+    "title": "Ep 46: Wedding Betrayal at the Altar",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 23.6,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 46,
+        "start_sec": 76.8,
+        "end_sec": 100.4,
+        "start_fmt": "01:16.80",
+        "end_fmt": "01:40.40",
+        "duration_sec": 23.6,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "LADY JULIANA ASHCROFT: \"A church chained me.\""
+      }
+    ],
+    "opening_hook_3s": "[01:16.80-01:19.80] LADY JULIANA ASHCROFT: \"A church chained me.\"",
+    "ending_cliffhanger": "[01:36.40-01:40.40] HIGH PRIEST: \"And I have the power to undo in one hearing what took you three years to steal!\"",
+    "why_it_works_one_liner": "Opens immediately on a wedding betrayal at the altar shock at 01:16.80 and cuts on an unresolved power shift at 01:40.40 (23.6s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 75.4,
+      "cliffhanger_cut": 77.9,
+      "standalone_clarity": 80.0,
+      "pacing_density": 67.5,
+      "composite_score": 76.1
+    },
+    "transcript_preview": [
+      "[01:16.80-01:18.00] LADY JULIANA ASHCROFT (Bitter): \"A church chained me.\"",
+      "[01:18.10-01:21.00] LADY JULIANA ASHCROFT (Furious, Resolute): \"Now a church calls my marriage a lie!\"",
+      "[01:21.10-01:25.50] LADY JULIANA ASHCROFT (Shouting, Triumphant): \"God married us, Father! You are just angry no one asked you first!\"",
+      "[01:26.10-01:29.00] LADY CATHERINE (USURPER BRIDE) (Malicious, Taunting): \"Careful, healer. The floor isn't finished with you.\"",
+      "[01:29.30-01:32.40] HIGH PRIEST (O.S. / Low, Threatening): \"Careful, girl. You mistake my patience for weakness.\"",
+      "[01:32.20-01:36.20] HIGH PRIEST (Commanding, Severe): \"God did not marry you. A frightened parishioner did, without leave, without license, without the Crown's blessing!\"",
+      "[01:36.80-01:40.40] HIGH PRIEST (Booming, Threatening): \"And I have the power to undo in one hearing what took you three years to steal!\""
+    ]
+  },
+  {
+    "promo_id": "EP47-CONT",
+    "rank": 32,
+    "title": "Ep 47: Rigged Witchcraft Trial & Poison Conspiracy",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 25.0,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 47,
+        "start_sec": 56.8,
+        "end_sec": 81.8,
+        "start_fmt": "00:56.80",
+        "end_fmt": "01:21.80",
+        "duration_sec": 25.0,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER): \"You dare show your face in Ashbourne courtyard?\""
+      }
+    ],
+    "opening_hook_3s": "[00:56.80-00:59.80] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER): \"You dare show your face in Ashbourne courtyard?\"",
+    "ending_cliffhanger": "[01:17.80-01:21.80] LADY CATHERINE (USURPER BRIDE): \"Please, Alexander! Have mercy!\"",
+    "why_it_works_one_liner": "Opens immediately on a rigged witchcraft trial & poison conspiracy shock at 00:56.80 and cuts on an unresolved power shift at 01:21.80 (25.0s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 99.0,
+      "cliffhanger_cut": 75.4,
+      "standalone_clarity": 77.0,
+      "pacing_density": 71.0,
+      "composite_score": 82.2
+    },
+    "transcript_preview": [
+      "[00:56.80-00:59.80] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER) (Sharp, Contemptuous): \"You dare show your face in Ashbourne courtyard?\"",
+      "[01:00.50-01:03.40] LADY CATHERINE (USURPER BRIDE) (Desperate, Weeping): \"I have nowhere to go, Your Grace.\"",
+      "[01:03.50-01:06.80] LADY CATHERINE (USURPER BRIDE) (Sobbing, Pleading): \"London closed its doors! My family disowned me!\"",
+      "[01:07.20-01:11.20] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER) (Cold, Unforgiving): \"She aided the poison in my veins. Cast her into the road.\"",
+      "[01:11.80-01:14.80] VAUGHN (Gruff, Ready): \"One command, Your Grace, and I drag her past the gates.\"",
+      "[01:15.20-01:18.50] DUKE ALEXANDER ASHBOURNE (Furious, Decisive): \"Do it, Vaughn! Throw her past the estate perimeter!\"",
+      "[01:18.80-01:21.80] LADY CATHERINE (USURPER BRIDE) (Hysterical, Screaming): \"Please, Alexander! Have mercy!\""
+    ]
+  },
+  {
+    "promo_id": "EP48-CONT",
+    "rank": 50,
+    "title": "Ep 48: High-Stakes Aristocratic Betrayal",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 38.1,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 48,
+        "start_sec": 30.9,
+        "end_sec": 69.0,
+        "start_fmt": "00:30.90",
+        "end_fmt": "01:09.00",
+        "duration_sec": 38.1,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "LADY CATHERINE (USURPER BRIDE): \"Lock it.\""
+      }
+    ],
+    "opening_hook_3s": "[00:30.90-00:33.90] LADY CATHERINE (USURPER BRIDE): \"Lock it.\"",
+    "ending_cliffhanger": "[01:05.00-01:09.00] LADY CATHERINE (USURPER BRIDE): \"Send for the priest. Tonight.\"",
+    "why_it_works_one_liner": "Opens immediately on a high-stakes aristocratic betrayal shock at 00:30.90 and cuts on an unresolved power shift at 01:09.00 (38.1s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 86.5,
+      "cliffhanger_cut": 51.5,
+      "standalone_clarity": 50.0,
+      "pacing_density": 60.6,
+      "composite_score": 63.0
+    },
+    "transcript_preview": [
+      "[00:30.90-00:32.00] LADY CATHERINE (USURPER BRIDE) (Commanding, Sharp): \"Lock it.\"",
+      "[00:32.30-00:33.80] [SOUND FX] Heavy metallic click of an iron key latching into a deadbolt.",
+      "[00:34.00-00:36.50] [ACTION] Catherine strides forward and firmly grasps Agnes by both hands, stepping uncomfortably close.",
+      "[00:34.20-00:37.10] LADY CATHERINE (USURPER BRIDE) (Fierce, Hissing): \"Everyone in that chapel saw me humiliated today.\"",
+      "[00:37.30-00:39.00] LADY CATHERINE (USURPER BRIDE) (Spiteful, calculating): \"Good. Let them remember it.\"",
+      "[00:39.20-00:43.00] LADY CATHERINE (USURPER BRIDE) (Sinister, Predatory): \"Grief makes people careless, and carelessness is exactly what I need from that household right now.\"",
+      "[00:43.30-00:46.80] AGNES (Anxious, Whispering): \"My lady... the Duke has bailiffs watching every road out of the county.\"",
+      "[00:47.00-00:51.30] LADY CATHERINE (USURPER BRIDE) (Confident, Devious): \"I'm not leaving the county, Agnes. I'm going back into that house.\""
+    ]
+  },
+  {
+    "promo_id": "EP49-CONT",
+    "rank": 46,
+    "title": "Ep 49: Framed Husband & Sadistic Ultimatum",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 26.55,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 49,
+        "start_sec": 118.2,
+        "end_sec": 144.75,
+        "start_fmt": "01:58.20",
+        "end_fmt": "02:24.75",
+        "duration_sec": 26.55,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "FATHER THOMAS: \"Careful men still hang, my lady, when the crime is treason against a Duke the King himself jus"
+      }
+    ],
+    "opening_hook_3s": "[01:58.20-02:01.20] FATHER THOMAS: \"Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored.\"",
+    "ending_cliffhanger": "[02:20.75-02:24.75] LADY CATHERINE (USURPER BRIDE): \"We always have.\"",
+    "why_it_works_one_liner": "Opens immediately on a framed husband & sadistic ultimatum shock at 01:58.20 and cuts on an unresolved power shift at 02:24.75 (26.6s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 96.6,
+      "cliffhanger_cut": 45.5,
+      "standalone_clarity": 78.0,
+      "pacing_density": 64.8,
+      "composite_score": 71.9
+    },
+    "transcript_preview": [
+      "[01:58.20-02:04.50] FATHER THOMAS (Stern, Stark): \"Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored.\"",
+      "[02:05.00-02:08.50] LADY CATHERINE (USURPER BRIDE) (Tempting): \"Careful men who help me also get remembered.\"",
+      "[02:09.20-02:14.20] LADY CATHERINE (USURPER BRIDE) (Whispering, Promising): \"A grateful Duchess collects debts differently than a desperate one.\"",
+      "[02:15.00-02:19.50] [ACTION] Father Thomas slowly raises his right hand, palm turned upward in invitation and pact.",
+      "[02:15.20-02:19.50] FATHER THOMAS (Low, Resigned): \"The rest depends on how well you keep your part of this quiet.\"",
+      "[02:20.00-02:22.50] FATHER THOMAS (Softly): \"Then we understand each other.\"",
+      "[02:20.50-02:22.80] [ACTION] Catherine reaches out and places her slender hand firmly into Father Thomas's open palm.",
+      "[02:23.00-02:24.00] LADY CATHERINE (USURPER BRIDE) (Intimate): \"We always have.\""
+    ]
+  },
+  {
+    "promo_id": "EP50-CONT",
+    "rank": 49,
+    "title": "Ep 50: High-Stakes Aristocratic Betrayal",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 40.2,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 50,
+        "start_sec": 39.8,
+        "end_sec": 80.0,
+        "start_fmt": "00:39.80",
+        "end_fmt": "01:20.00",
+        "duration_sec": 40.2,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "FATHER THOMAS: \"For as long as it holds.\""
+      }
+    ],
+    "opening_hook_3s": "[00:39.80-00:42.80] FATHER THOMAS: \"For as long as it holds.\"",
+    "ending_cliffhanger": "[01:16.00-01:20.00] Sharp, terrified gasp catching in Agnes's throat.",
+    "why_it_works_one_liner": "Opens immediately on a high-stakes aristocratic betrayal shock at 00:39.80 and cuts on an unresolved power shift at 01:20.00 (40.2s) without needing backstory.",
+    "posting_priority_reason": "Self-contained dramatic escalation with high visual and emotional contrast.",
+    "scores": {
+      "hook_3s": 50.4,
+      "cliffhanger_cut": 99.0,
+      "standalone_clarity": 50.0,
+      "pacing_density": 58.4,
+      "composite_score": 66.1
+    },
+    "transcript_preview": [
+      "[00:40.40-00:42.50] FATHER THOMAS (Grave): \"For as long as it holds.\"",
+      "[00:43.20-00:48.00] LADY CATHERINE (USURPER BRIDE) (Softly, Teasing): \"Done. You told yourself this ends when the hearing does.\"",
+      "[00:49.80-00:54.00] FATHER THOMAS (Chuckle, Resigned): \"I've told myself that since the dawn in your bedchamber, and here we are again.\"",
+      "[00:54.80-00:56.50] LADY CATHERINE (USURPER BRIDE) (Murmuring): \"In another room no one uses?\"",
+      "[00:56.80-00:59.20] FATHER THOMAS (Whispering): \"Perhaps I like rooms no one uses.\"",
+      "[01:00.30-01:04.80] LADY CATHERINE (USURPER BRIDE) (Low, Carnal): \"Or perhaps discretion isn't the only thing you've developed a taste for.\"",
+      "[01:05.80-01:10.50] [ACTION] Catherine closes her eyes in surrender as Father Thomas holds her tight against his naked chest, lost in their forbidden entanglement.",
+      "[01:10.80-01:13.50] [ACTION] Agnes scans the desolate hallway nervously, her lantern casting elongated shadows against the wall."
+    ]
+  }
+]

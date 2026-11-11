@@ -1,0 +1,520 @@
+[
+  {
+    "promo_id": "PROMO-01-ALTAR-BETRAYAL",
+    "rank": 1,
+    "title": "The Altar Swap: Fiancé Marries Her Sister in Front of the Whole Church",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 51.1,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 1,
+        "start_sec": 11.0,
+        "end_sec": 62.1,
+        "start_fmt": "00:11.00",
+        "end_fmt": "01:02.10",
+        "duration_sec": 51.1,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "Matriarch blocks bride Juliana in the aisle ('You should turn around') as she discovers her fiancé Gerald holding her sister Clarissa's hand at the altar ('Because he is marrying me')."
+      }
+    ],
+    "opening_hook_3s": "[00:11.00-00:14.00] Bride in white silk gown is abruptly blocked mid-aisle by the haughty Matriarch in black velvet: \"You should turn around, Juliana.\"",
+    "ending_cliffhanger": "[00:57.60-01:02.10] Gerald steps forward on the altar beside her gloating sister and looks down coldly: \"I changed my mind.\"",
+    "why_it_works_one_liner": "[Balanced Acquisition Funnel (v1)] Zero backstory needed: a bride stopped mid-aisle while her fiancé holds her sister's hand at the altar is the highest-converting microdrama trope on TikTok/Reels.",
+    "posting_priority_reason": "Post #1 (Day 1 Hero Ad): 100% universally legible in 2 seconds with mute captions; introduces the core betrayal without spoiling the scarred Duke twist.",
+    "scores": {
+      "hook_3s": 98.5,
+      "cliffhanger_cut": 96.0,
+      "standalone_clarity": 99.0,
+      "pacing_density": 94.5,
+      "composite_score": 97.3
+    },
+    "transcript_preview": [
+      "(Ep 1) [00:11.30-00:13.10] LADY ASHCROFT (JULIANA'S STEPMOTHER) (Cold, Commanding): \"You should turn around, Juliana.\"",
+      "(Ep 1) [00:13.50-00:14.30] LADY JULIANA ASHCROFT (Confused, Breathless): \"Why?\"",
+      "(Ep 1) [00:15.50-00:17.50] LADY JULIANA ASHCROFT (Desperate, Unbelieving): \"Gerald is waiting for me.\"",
+      "(Ep 1) [00:18.00-00:19.40] LADY ASHCROFT (JULIANA'S STEPMOTHER) (Blunt, Unforgiving): \"Not anymore.\""
+    ]
+  },
+  {
+    "promo_id": "PROMO-02-STRANGER-PROPOSAL-STITCH",
+    "rank": 2,
+    "title": "Abandoned at the Altar -> Rescued & Proposed to by the Scarred Warlord",
+    "promo_type": "Cross-Episode Stitched Trailer",
+    "posting_wave": "Wave 1: Post First (Broad Cold-Traffic Hook)",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 49.8,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 1,
+        "start_sec": 33.7,
+        "end_sec": 50.0,
+        "start_fmt": "00:33.70",
+        "end_fmt": "00:50.00",
+        "duration_sec": 16.3,
+        "segment_role": "HOOK & SETUP",
+        "key_action_or_line": "Juliana sees Gerald holding her sister Clarissa's hand at the altar: 'Because he is marrying me!' / 'You knew this before I walked through those doors!'"
+      },
+      {
+        "segment_order": 2,
+        "episode_number": 3,
+        "start_sec": 104.5,
+        "end_sec": 121.0,
+        "start_fmt": "01:44.50",
+        "end_fmt": "02:01.00",
+        "duration_sec": 16.5,
+        "segment_role": "ESCALATION",
+        "key_action_or_line": "Guards seize Juliana to drag her out of the chapel until the imposing, battle-scarred stranger steps into the aisle and effortlessly disarms them."
+      },
+      {
+        "segment_order": 3,
+        "episode_number": 3,
+        "start_sec": 212.0,
+        "end_sec": 229.0,
+        "start_fmt": "03:32.00",
+        "end_fmt": "03:49.00",
+        "duration_sec": 17.0,
+        "segment_role": "CLIFFHANGER PAYOFF",
+        "key_action_or_line": "The scarred stranger drops to one knee before the stunned congregation, holding out an heirloom signet ring: 'Marry me.'"
+      }
+    ],
+    "opening_hook_3s": "[Ep 1 | 00:33.70-00:36.70] Close-up on the bride in tears looking up at the altar: \"Gerald? Why are you holding her hand?\" -> Sister smirks: \"Because he is marrying me.\"",
+    "ending_cliffhanger": "[Ep 3 | 03:32.00-03:49.00] The mysterious scarred soldier drops to one knee in front of her cruel family and holds up a ring: \"Marry me.\" Cut before she answers.",
+    "why_it_works_one_liner": "[Balanced Acquisition Funnel (v1)] Delivers the complete title premise ('I Married a Broken Soldier') in 49.8 seconds by stitching the altar humiliation directly into the shock counter-proposal.",
+    "posting_priority_reason": "Post #2 (Day 1 Co-Headline Ad): Directly sells the romance/revenge fantasy promised by the show's title and hooks viewers on whether she says yes.",
+    "scores": {
+      "hook_3s": 97.0,
+      "cliffhanger_cut": 98.5,
+      "standalone_clarity": 97.5,
+      "pacing_density": 95.0,
+      "composite_score": 97.3
+    },
+    "transcript_preview": [
+      "(Ep 1) [00:33.80-00:35.00] LADY JULIANA ASHCROFT (Shaken, Whispering): \"Gerald?\"",
+      "(Ep 1) [00:35.40-00:37.70] LADY JULIANA ASHCROFT (Heartbroken): \"Why are you holding her hand?\"",
+      "(Ep 1) [00:39.10-00:41.20] LADY CLARISSA (SISTER) (Gloating, Smug): \"Because he is marrying me.\"",
+      "(Ep 1) [00:41.70-00:43.10] LADY JULIANA ASHCROFT (Gasping, Devastated): \"No...\"",
+      "(Ep 3) [01:44.20-01:47.40] DUKE ALEXANDER ASHBOURNE (Solemn, Gentle): \"You shouldn't have to beg anybody...\"",
+      "(Ep 3) [01:47.40-01:49.00] DUKE ALEXANDER ASHBOURNE (Affirming, Sincere): \"...to remember your worth.\"",
+      "(Ep 3) [01:50.90-01:52.50] LADY JULIANA ASHCROFT (Whispering, Bewildered): \"Why are you doing this?\"",
+      "(Ep 3) [01:52.80-01:54.10] DUKE ALEXANDER ASHBOURNE (Simple, Certain): \"Because I want to.\""
+    ]
+  },
+  {
+    "promo_id": "PROMO-03-CHAINED-BRIDE-EXPLOSION",
+    "rank": 3,
+    "title": "Paraded in Iron Shackles at Her Enemy's Wedding—Until the Cathedral Doors Explode",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 2: High-Heat Action/Revenge",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 56.5,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 41,
+        "start_sec": 15.5,
+        "end_sec": 44.2,
+        "start_fmt": "00:15.50",
+        "end_fmt": "00:44.20",
+        "duration_sec": 28.7,
+        "segment_role": "HOOK & SETUP",
+        "key_action_or_line": "Cathedral doors swing open as Juliana is marched down the flower-strewn wedding aisle in heavy iron shackles while the bride Catherine gloats."
+      },
+      {
+        "segment_order": 2,
+        "episode_number": 41,
+        "start_sec": 68.09,
+        "end_sec": 96.09,
+        "start_fmt": "01:08.09",
+        "end_fmt": "01:36.09",
+        "duration_sec": 28.0,
+        "segment_role": "CLIFFHANGER PAYOFF",
+        "key_action_or_line": "As Catherine demands Juliana kneel at the altar, a deafening explosion blasts the cathedral doors off their hinges and the presumed-dead Duke emerges through the smoke."
+      }
+    ],
+    "opening_hook_3s": "[Ep 41 | 00:15.50-00:18.50] Heavy cathedral doors swing open mid-wedding to reveal Lady Juliana dragged down the bridal aisle in iron wrist shackles.",
+    "ending_cliffhanger": "[Ep 41 | 01:30.00-01:36.09] A massive explosion shatters the heavy oak cathedral gates; through the swirling smoke, a tall figure in full ducal regalia steps in.",
+    "why_it_works_one_liner": "[Balanced Acquisition Funnel (v1)] Extreme visual contrast (a shackled prisoner dragged down a luxury wedding aisle) followed by a literal explosion cliffhanger as the silhouette enters.",
+    "posting_priority_reason": "Post #3 (Wave 2 Action Hook): Highest visual kinetic score in the 50-episode pack; pulls in viewers who scroll past dialogue-only clips.",
+    "scores": {
+      "hook_3s": 98.0,
+      "cliffhanger_cut": 99.0,
+      "standalone_clarity": 94.0,
+      "pacing_density": 96.0,
+      "composite_score": 96.8
+    },
+    "transcript_preview": [
+      "(Ep 41) [00:15.50-00:17.50] [SOUND FX] Heavy wooden creak of the cathedral double doors swinging open.",
+      "(Ep 41) [00:17.50-00:20.00] [ACTION] Juliana, dressed in a coarse drab prison dress with a numbered identification badge, is marched forward by two armed constables holding her by the arms.",
+      "(Ep 41) [00:26.80-00:28.40] LADY CATHERINE (USURPER BRIDE) (Smug, Taunting): \"There she is.\"",
+      "(Ep 41) [00:30.50-00:31.60] NOBLEWOMAN (Gleeful, Whispering): \"Look at her.\"",
+      "(Ep 41) [01:10.50-01:14.80] LADY CATHERINE (USURPER BRIDE) (Intimate, Ambitious): \"Soon, there will be nothing left between us and the Ashburgh title.\"",
+      "(Ep 41) [01:15.80-01:17.00] LORD RUPERT ASHBOURNE (USURPER COUSIN) (Quietly Triumphant): \"Nothing.\"",
+      "(Ep 41) [01:18.00-01:19.30] PRIEST (Solemn, Polite): \"Shall we?\"",
+      "(Ep 41) [01:21.00-01:25.50] [SOUND FX] Ear-splitting detonation, shattering stone, wood splintering violently into kindling, followed by terrified screams of the congregation."
+    ]
+  },
+  {
+    "promo_id": "PROMO-04-BLACKTHORN-ULTIMATUM",
+    "rank": 4,
+    "title": "Crawl Into Razor-Sharp Blackthorn Briars Barehanded—Or Watch Your Husband Hang",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 2: High-Heat Action/Revenge",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels"
+    ],
+    "total_duration_sec": 54.2,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 12,
+        "start_sec": 0.0,
+        "end_sec": 28.0,
+        "start_fmt": "00:00.00",
+        "end_fmt": "00:28.00",
+        "duration_sec": 28.0,
+        "segment_role": "HOOK & SETUP",
+        "key_action_or_line": "Constable raises heavy iron handcuffs to arrest Alexander over a planted gold watch as Juliana shields him with her body: 'You planted it!'"
+      },
+      {
+        "segment_order": 2,
+        "episode_number": 12,
+        "start_sec": 54.0,
+        "end_sec": 80.2,
+        "start_fmt": "00:54.00",
+        "end_fmt": "01:20.20",
+        "duration_sec": 26.2,
+        "segment_role": "CLIFFHANGER PAYOFF",
+        "key_action_or_line": "Clarissa delivers a sadistic ultimatum: crawl into the frozen, razor-sharp blackthorn briars with bare hands to fetch her ring, or Alexander hangs at dawn."
+      }
+    ],
+    "opening_hook_3s": "[Ep 12 | 00:00.00-00:03.00] Constable raises heavy iron handcuffs: \"Put out your hands, veteran. You are under arrest for theft!\" as Juliana throws herself in front of him.",
+    "ending_cliffhanger": "[Ep 12 | 01:15.00-01:20.20] Clarissa smiles venomously: \"Fetch my signet ring from the blackthorn briars with your bare hands... or watch him hang.\"",
+    "why_it_works_one_liner": "[Balanced Acquisition Funnel (v1)] Instant physical stakes (handcuffs in frame at 00:00) escalating into a visceral, sadistic choice that forces viewers to see if she actually crawls into the thorns.",
+    "posting_priority_reason": "Post #4 (Wave 2 Moral Outrage Ad): Outrage-driven ultimatums drive massive comment-section engagement on Reels and Shorts.",
+    "scores": {
+      "hook_3s": 96.0,
+      "cliffhanger_cut": 95.5,
+      "standalone_clarity": 96.0,
+      "pacing_density": 93.0,
+      "composite_score": 95.4
+    },
+    "transcript_preview": [
+      "(Ep 12) [00:00.50-00:04.50] CONSTABLE (Authoritative, Stern): \"Put out your hands, veteran. You are under arrest for theft.\"",
+      "(Ep 12) [00:04.80-00:06.00] [ACTION] Juliana steps firmly forward, shielding Alexander with her body.",
+      "(Ep 12) [00:05.70-00:08.80] LADY JULIANA ASHCROFT (Furious, Defiant): \"No! That watch was not in his coat!\"",
+      "(Ep 12) [00:10.00-00:11.70] CONSTABLE (Blunt, Unyielding): \"I found it there myself.\"",
+      "(Ep 12) [00:52.40-00:56.70] LADY CLARISSA (SISTER) (Chilling, Sarcastic): \"...sharp as steel. The ground is frozen, like pure ice.\"",
+      "(Ep 12) [00:56.80-00:58.00] [ACTION] Gerald bursts into a loud, mocking laugh beside the stony Constable.",
+      "(Ep 12) [00:57.30-01:00.60] LADY CLARISSA (SISTER) (Demanding, Brutal): \"You will retrieve it with your bare hands before the magistrate arrives.\"",
+      "(Ep 12) [01:00.80-01:03.10] GERALD HARRINGTON (EX-FIANCE) (Gleeful, Derisive): \"A lady's hands will be shredded to ribbons!\""
+    ]
+  },
+  {
+    "promo_id": "PROMO-05-BEGGAR-TO-DUKE-REVEAL",
+    "rank": 5,
+    "title": "They Mocked Her 'Crippled Beggar' Husband—Until the Royal Guards Saluted Him as Duke",
+    "promo_type": "Cross-Episode Stitched Trailer",
+    "posting_wave": "Wave 3: Retargeting & Payoff Twist",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 52.8,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 12,
+        "start_sec": 28.0,
+        "end_sec": 44.0,
+        "start_fmt": "00:28.00",
+        "end_fmt": "00:44.00",
+        "duration_sec": 16.0,
+        "segment_role": "HOOK & SETUP",
+        "key_action_or_line": "Clarissa and Gerald mock Juliana for defending her 'broken scrap of a man, a crippled beggar with nothing.'"
+      },
+      {
+        "segment_order": 2,
+        "episode_number": 39,
+        "start_sec": 180.0,
+        "end_sec": 198.8,
+        "start_fmt": "03:00.00",
+        "end_fmt": "03:18.80",
+        "duration_sec": 18.8,
+        "segment_role": "ESCALATION",
+        "key_action_or_line": "Inside the candlelit chamber, Alexander sheds his rugged peasant cloak and fastens the gold-embroidered Ducal mantle over his scarred shoulders."
+      },
+      {
+        "segment_order": 3,
+        "episode_number": 42,
+        "start_sec": 42.0,
+        "end_sec": 60.0,
+        "start_fmt": "00:42.00",
+        "end_fmt": "01:00.00",
+        "duration_sec": 18.0,
+        "segment_role": "CLIFFHANGER PAYOFF",
+        "key_action_or_line": "In the ruined cathedral, Rupert screams at the Royal Guards to execute Alexander—instead, the Captain drops to a salute as his mother proclaims him the rightful Duke!"
+      }
+    ],
+    "opening_hook_3s": "[Ep 12 | 00:28.00-00:31.00] Clarissa sneers down at Juliana and her scarred husband: \"Still defending your broken scrap of a man?\"",
+    "ending_cliffhanger": "[Ep 42 | 00:54.00-01:00.00] Usurper Rupert screams \"Arrest him!\"—but the Royal Guard Captain snaps to attention and salutes Alexander in silence.",
+    "why_it_works_one_liner": "[Balanced Acquisition Funnel (v1)] Captures the core status-reversal fantasy ('He Was Secretly a Duke') by contrasting his early humiliation with the moment the Royal Guards salute him.",
+    "posting_priority_reason": "Post #5 (Wave 3 Identity Reveal Ad): Perfect for audiences who love 'secret billionaire/royalty' identity-reveal hooks.",
+    "scores": {
+      "hook_3s": 93.5,
+      "cliffhanger_cut": 97.5,
+      "standalone_clarity": 95.0,
+      "pacing_density": 94.0,
+      "composite_score": 95.1
+    },
+    "transcript_preview": [
+      "(Ep 12) [00:28.10-00:30.00] LADY CLARISSA (SISTER) (Purring, Taunting): \"Oh, dear sister...\"",
+      "(Ep 12) [00:30.00-00:32.40] LADY CLARISSA (SISTER) (Continuing taunt): \"...still defending your broken scrap of a man?\"",
+      "(Ep 12) [00:32.40-00:35.20] LADY JULIANA ASHCROFT (Steely, Resolute): \"Name your price, Clarissa. I know you.\"",
+      "(Ep 12) [00:35.40-00:40.00] LADY CLARISSA (SISTER) (Smooth, Derisive): \"You always were clever, Juliana. Always searching for some way to escape.\"",
+      "(Ep 42) [00:40.20-00:42.50] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER) (Choked with Tears): \"Alexander...\"",
+      "(Ep 42) [00:44.80-00:48.00] [ACTION] Alexander halts his march as his mother reaches him, placing her frail hands gently upon his chest.",
+      "(Ep 42) [00:48.00-00:49.00] DUKE ALEXANDER ASHBOURNE (Soft, Reverent): \"Mother.\"",
+      "(Ep 42) [00:49.00-00:54.00] [ACTION] His mother gently cradles Alexander's scarred cheek, tears streaming down her face as guests in the background watch in stunned silence."
+    ]
+  },
+  {
+    "promo_id": "PROMO-06-DUNGEON-BRANDING-IRON",
+    "rank": 6,
+    "title": "Chained in the Wet Dungeon, She Faces a Red-Hot Branding Iron to Save Her Mother's Book",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 2: High-Heat Action/Revenge",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels"
+    ],
+    "total_duration_sec": 48.0,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 31,
+        "start_sec": 112.0,
+        "end_sec": 160.0,
+        "start_fmt": "01:52.00",
+        "end_fmt": "02:40.00",
+        "duration_sec": 48.0,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "Catherine pulls a glowing red-hot branding iron from the brazier inside the subterranean dungeon cell and presses it toward Juliana and her late mother's herbal journal."
+      }
+    ],
+    "opening_hook_3s": "[Ep 31 | 01:52.00-01:55.00] Close-up on a glowing, red-hot branding iron lifted from a dungeon brazier, casting fiery sparks across Juliana's chained wrists.",
+    "ending_cliffhanger": "[Ep 31 | 02:35.00-02:40.00] Catherine drives the glowing iron down onto the leather cover of her late mother's book as smoke hisses and Juliana lunges against her chains.",
+    "why_it_works_one_liner": "[Balanced Acquisition Funnel (v1)] A glowing red-hot branding iron in a dark dungeon cell is an instant visual thumb-stopper with visceral sensory stakes.",
+    "posting_priority_reason": "Post #6 (Wave 2 High-Tension Drama Ad): High visual contrast (glowing embers in dark wet cells) and intense villain vs. heroine clash.",
+    "scores": {
+      "hook_3s": 96.5,
+      "cliffhanger_cut": 94.0,
+      "standalone_clarity": 91.0,
+      "pacing_density": 92.5,
+      "composite_score": 93.9
+    },
+    "transcript_preview": [
+      "(Ep 31) [01:51.60-01:58.20] LADY CATHERINE (USURPER BRIDE) (Arrogant, Elitist): \"That is why you were born in the wrong world. Women like me are meant to be admired. Women like you are meant to serve.\"",
+      "(Ep 31) [01:58.40-02:02.00] LADY JULIANA ASHCROFT (Piercing, Provocative): \"Then why are you so desperate to make me kneel?\"",
+      "(Ep 31) [02:02.00-02:04.00] [ACTION] Catherine's smug expression freezes, her eyes widening in momentary shock and fury as the blow lands squarely.",
+      "(Ep 31) [02:04.20-02:10.50] LADY JULIANA ASHCROFT (Accusatory, Commanding): \"If you were truly powerful, Catherine, you wouldn't need me to bow.\""
+    ]
+  },
+  {
+    "promo_id": "PROMO-07-MIDNIGHT-ARSON-RESCUE",
+    "rank": 7,
+    "title": "Trapped Inside a Burning Cottage at Midnight—He Walks Through Fire for Her",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 2: High-Heat Action/Revenge",
+    "target_platforms": [
+      "YouTube Shorts",
+      "Instagram Reels"
+    ],
+    "total_duration_sec": 44.5,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 18,
+        "start_sec": 28.9,
+        "end_sec": 73.4,
+        "start_fmt": "00:28.90",
+        "end_fmt": "01:13.40",
+        "duration_sec": 44.5,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "Arsonists bolt the cottage door from outside and set the roof ablaze; as burning beams collapse around Juliana, Alexander kicks through the wall of flames."
+      }
+    ],
+    "opening_hook_3s": "[Ep 18 | 00:28.90-00:32.00] Masked arsonists hurl a flaming torch onto the cottage roof and bolt the heavy timber door from the outside.",
+    "ending_cliffhanger": "[Ep 18 | 01:09.00-01:13.40] A blazing ceiling beam crashes down blocking the exit just as Juliana reaches for her mother's ledger in the smoke.",
+    "why_it_works_one_liner": "[Balanced Acquisition Funnel (v1)] Immediate life-or-death physical peril (locked doors + roaring flames in the first 3 seconds) that requires zero dialogue to hook global viewers.",
+    "posting_priority_reason": "Post #7 (Visual-First International Ad): Works exceptionally well even with low audio reliance because the threat is 100% visual.",
+    "scores": {
+      "hook_3s": 95.0,
+      "cliffhanger_cut": 93.0,
+      "standalone_clarity": 93.5,
+      "pacing_density": 91.0,
+      "composite_score": 93.5
+    },
+    "transcript_preview": [
+      "(Ep 18) [00:32.50-00:36.50] [ACTION] Alexander clutches Juliana against his chest with one strong arm, shielding her face from the sparks.",
+      "(Ep 18) [00:33.20-00:35.20] DUKE ALEXANDER ASHBOURNE (Firm, Protective): \"Stay close to me.\"",
+      "(Ep 18) [00:38.00-00:41.50] [ACTION] Juliana recoils from the heat, clutching Alexander's coat tightly.",
+      "(Ep 18) [00:39.50-00:41.80] LADY JULIANA ASHCROFT (Panic-Stricken, Choked): \"We cannot get through!\""
+    ]
+  },
+  {
+    "promo_id": "PROMO-08-DUCHESS-RING-TRAP",
+    "rank": 8,
+    "title": "The Dying Duchess Recognizes the Maid's Wedding Ring—Right as the Traitors Burst In",
+    "promo_type": "Cross-Episode Stitched Trailer",
+    "posting_wave": "Wave 3: Retargeting & Payoff Twist",
+    "target_platforms": [
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "total_duration_sec": 46.0,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 26,
+        "start_sec": 95.0,
+        "end_sec": 120.88,
+        "start_fmt": "01:35.00",
+        "end_fmt": "02:00.88",
+        "duration_sec": 25.88,
+        "segment_role": "HOOK & SETUP",
+        "key_action_or_line": "As disguised maid Juliana feeds charcoal antidote to the dying Dowager Duchess, the Duchess's eyes snap open and she seizes Juliana's wrist, staring at the Ashbourne crest ring: 'Where did you get this ring?!'"
+      },
+      {
+        "segment_order": 2,
+        "episode_number": 27,
+        "start_sec": 45.0,
+        "end_sec": 65.12,
+        "start_fmt": "00:45.00",
+        "end_fmt": "01:05.12",
+        "duration_sec": 20.12,
+        "segment_role": "CLIFFHANGER PAYOFF",
+        "key_action_or_line": "Before Juliana can whisper Alexander's name, the chamber doors burst open and Rupert and Catherine storm in with guards: 'Seize her! She is poisoning the Duchess!'"
+      }
+    ],
+    "opening_hook_3s": "[Ep 26 | 01:35.00-01:38.00] The bedridden Dowager Duchess suddenly grabs the disguised maid's wrist in the dark: \"This signet ring... it belongs to my dead son!\"",
+    "ending_cliffhanger": "[Ep 27 | 01:00.00-01:05.12] Rupert and Catherine burst through the bedroom doors with armed guards: \"Catch her in the act! She is poisoning the Duchess!\"",
+    "why_it_works_one_liner": "[Balanced Acquisition Funnel (v1)] Combines an emotional secret-identity discovery (the mother recognizing her 'dead' son's ring) with an immediate false-accusation ambush.",
+    "posting_priority_reason": "Post #8 (Wave 3 Mid-Season Suspense Ad): Hooks mystery/thriller viewers with a double reversal in 46 seconds.",
+    "scores": {
+      "hook_3s": 92.0,
+      "cliffhanger_cut": 94.5,
+      "standalone_clarity": 91.5,
+      "pacing_density": 92.0,
+      "composite_score": 92.6
+    },
+    "transcript_preview": [
+      "(Ep 26) [01:36.00-01:39.80] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER) (Breathless, Shaken): \"Your hand... Let me see your hand.\"",
+      "(Ep 26) [01:40.50-01:45.00] LADY JULIANA ASHCROFT (Confused, Alarmed): \"Your Grace? What is wrong? You look as though you've seen a ghost.\"",
+      "(Ep 26) [01:46.00-01:49.00] [ACTION] The Duchess reaches outward with trembling fingers, grasping frantically for Juliana.",
+      "(Ep 26) [01:48.80-01:50.00] [SOUND FX] A sudden sharp rustle of fabric as her fingers snap tight.",
+      "(Ep 27) [00:44.50-00:46.40] DOWAGER DUCHESS ASHBOURNE (ALEXANDER'S MOTHER) (Hushed, Desperate): \"What is your husband's name?\"",
+      "(Ep 27) [00:46.40-00:48.30] [SOUND FX] Loud, violent pounding echoes on the wooden double doors.",
+      "(Ep 27) [00:48.80-00:51.50] [ACTION] The heavy mahogany double doors burst open, revealing the Blond Nobleman flanked by Lady Catherine and a royal guard in uniform.",
+      "(Ep 27) [00:52.20-00:55.60] LADY CATHERINE (USURPER BRIDE) (Sharp, Accusatory): \"What is that maid doing in Her Grace's private chamber?\""
+    ]
+  },
+  {
+    "promo_id": "PROMO-09-SOLDIER-UNLEASHED",
+    "rank": 9,
+    "title": "Three Hired Thugs Corner His Wife in the Dark—And Learn Why He's Feared on the Battlefield",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 2: High-Heat Action/Revenge",
+    "target_platforms": [
+      "YouTube Shorts",
+      "TikTok"
+    ],
+    "total_duration_sec": 47.5,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 16,
+        "start_sec": 0.0,
+        "end_sec": 47.5,
+        "start_fmt": "00:00.00",
+        "end_fmt": "00:47.50",
+        "duration_sec": 47.5,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "Three armed thugs corner bandaged Juliana in her moonlit herb garden until Alexander steps out of the shadows, dislocating the leader's arm and forcing a confession."
+      }
+    ],
+    "opening_hook_3s": "[Ep 16 | 00:00.00-00:03.00] Three armed thugs kick apart Juliana's garden as she lies injured on the earth—until Alexander catches the leader's club barehanded.",
+    "ending_cliffhanger": "[Ep 16 | 00:43.00-00:47.50] Pinning the terrified thug to the mud, Alexander demands in a lethal whisper: \"Tell me who paid you, or you don't walk out of these woods.\"",
+    "why_it_works_one_liner": "[Balanced Acquisition Funnel (v1)] Pure protective-husband action payoff: opens mid-swing at 00:00 and cuts right on the interrogation confession threat.",
+    "posting_priority_reason": "Post #9 (Action-Segment Ad): High male & female crossover appeal due to fast combat choreography.",
+    "scores": {
+      "hook_3s": 94.0,
+      "cliffhanger_cut": 91.0,
+      "standalone_clarity": 93.0,
+      "pacing_density": 90.5,
+      "composite_score": 92.3
+    },
+    "transcript_preview": [
+      "(Ep 16) [00:00.00-00:02.10] [ACTION] Alexander stands tall and unyielding, blocking the path to Juliana, while the Thug with Cap steps forward clutching an iron pipe.",
+      "(Ep 16) [00:02.10-00:04.20] THUG WITH CAP (Menacing, Goading): \"Move aside, soldier.\"",
+      "(Ep 16) [00:06.40-00:08.80] THUG WITH CAP (Furious, Shouting): \"I said, move!\"",
+      "(Ep 16) [00:11.20-00:12.70] LADY JULIANA ASHCROFT (Frightened, Whispering): \"Alexander...\""
+    ]
+  },
+  {
+    "promo_id": "PROMO-10-MAID-REVERSAL",
+    "rank": 10,
+    "title": "The Woman Who Whipped Her Now Begs at Her Feet—And Gets Hired as a Scullery Maid",
+    "promo_type": "Single-Stretch Continuous",
+    "posting_wave": "Wave 3: Retargeting & Payoff Twist",
+    "target_platforms": [
+      "TikTok",
+      "Instagram Reels"
+    ],
+    "total_duration_sec": 53.0,
+    "segments": [
+      {
+        "segment_order": 1,
+        "episode_number": 47,
+        "start_sec": 130.0,
+        "end_sec": 183.0,
+        "start_fmt": "02:10.00",
+        "end_fmt": "03:03.00",
+        "duration_sec": 53.0,
+        "segment_role": "CONTINUOUS STRETCH",
+        "key_action_or_line": "Destitute and disgraced in the Ashbourne courtyard, Catherine drops to her knees begging Duchess Juliana for mercy; Juliana grants her survival—as the lowest scullery maid."
+      }
+    ],
+    "opening_hook_3s": "[Ep 47 | 02:10.00-02:13.00] Disgraced noblewoman Catherine collapses onto the wet cobblestones at Duchess Juliana's feet: \"Please! I have nowhere else to go!\"",
+    "ending_cliffhanger": "[Ep 47 | 02:58.00-03:03.00] Juliana looks down regally: \"You may stay at Ashbourne... on your knees, scrubbing the scullery floors.\" Catherine's hidden eyes flash with murder.",
+    "why_it_works_one_liner": "[Balanced Acquisition Funnel (v1)] Delivers the ultimate status-reversal karma that microdrama viewers crave while ending on Catherine's sinister hidden glare.",
+    "posting_priority_reason": "Post #10 (Wave 3 Retargeting Ad): Converts viewers who saw the early humiliation ads and want to see Juliana turn the tables.",
+    "scores": {
+      "hook_3s": 91.0,
+      "cliffhanger_cut": 90.5,
+      "standalone_clarity": 92.0,
+      "pacing_density": 89.5,
+      "composite_score": 90.9
+    },
+    "transcript_preview": [
+      "(Ep 47) [02:08.50-02:11.20] LADY CATHERINE (USURPER BRIDE) (Broken, Defeated): \"I accept, Your Grace.\""
+    ]
+  }
+]
